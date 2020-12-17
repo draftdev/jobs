@@ -5,7 +5,7 @@ Are you a highly-motivated marketing professional interested in executing a wide
 
 Then we've got a role for you!
 
-### About the Company
+## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, [we're a small, but focused team](https://twitter.com/KarlLHughes/status/1337141695432024065) of technologists, writers, marketers, editors, and designers.
 
 **And now we're looking for someone to join as our first marketing associate!**
@@ -17,7 +17,7 @@ Then we've got a role for you!
 - Naturally start conversations with marketing professionals online via email and social media
 - Consistently show up and deliver on promised work with a positive attitude and learning mindset
 
-### Your Tasks
+### Your Tasks:
 - Managing social media accounts (4k+ total followers):
   - Twitter
   - Linkedin
@@ -35,11 +35,11 @@ Then we've got a role for you!
 - Finding guest blogging opportunities
 - SEO Link-building outreach
 
-### Expectations
+### Expectations:
 - 20 hours/week
 - Primary KPIs: visitors, leads, MQLs
 
-### Perks
+### Perks:
 - $40/hour pay rate
 - 100% flexible hours, location, and (mostly) asynchronous work
 - Weekly feedback meetings to review KPIs and make tactical adjustments
