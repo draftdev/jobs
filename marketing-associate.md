@@ -50,6 +50,6 @@ Then we've got a role for you!
 
 ## Ready to Apply?
 
-#### [APPLY HERE](https://airtable.com/shrAsx6DfxVNkBjqe)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrAsx6DfxVNkBjqe)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
