@@ -1,3 +1,5 @@
+![Marketing Associate at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
+
 # Marketing Associate at [Draft.dev](https://draft.dev/)
 > 20 hours/week, $40/hour
 
@@ -47,6 +49,6 @@ Then we've got a role for you!
 - Help shape the marketing image of a quickly-growing service business
 
 ## Ready to Apply?
-Send your resume or your Linkedin profile to [karl@draft.dev](mailto:karl@draft.dev) along with a little about why you're interested in this role.
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrAsx6DfxVNkBjqe?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-I look forward to hearing from you!
+Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
