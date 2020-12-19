@@ -49,6 +49,7 @@ Then we've got a role for you!
 - Help shape the marketing image of a quickly-growing service business
 
 ## Ready to Apply?
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrAsx6DfxVNkBjqe?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+#### [APPLY HERE](https://airtable.com/shrAsx6DfxVNkBjqe)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
