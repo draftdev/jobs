@@ -15,8 +15,8 @@ Then we've got a role for you!
 **And now we're looking for someone to join as our first marketing associate!**
 
 ### We'd Like Someone Who Can:
-- Efficiently read and write content summaries for social media
-- Learn modern internet marketing tools and B2B social networks (primarily Twitter and Linkedin)
+- Write creative and compelling content summaries for social media
+- Skillfully use modern internet marketing tools and B2B social networks (Twitter, Linkedin, Quora, etc.)
 - Make data-driven decisions about marketing channels and tactics
 - Naturally start conversations with marketing professionals online via email and social media
 - Consistently show up and deliver on promised work with a positive attitude and learning mindset
