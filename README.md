@@ -6,6 +6,6 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
-- **[Staff Writer](https://github.com/draftdev/jobs/blob/main/staff-writer.md)** - We're hiring a full-time writer who's a technology enthusiast and tinkerer with a background in journalism.
+- **[Contract Writer](https://github.com/draftdev/jobs/blob/main/contract-writer.md)** - We're hiring a dedicated contract writer who's a technology enthusiast and tinkerer with a professional writing background.
 - **[Freelance Technical Writer](https://draft.dev/#write) ($300-$500 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place.
 - **[Account Manager](#)** - Details coming soon!
