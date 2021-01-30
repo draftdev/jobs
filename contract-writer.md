@@ -1,7 +1,7 @@
 # Contract Writer (Software Development Tools) at [Draft.dev](https://draft.dev/)
 > $0.33 - $0.45 per word depending on experience, 9000+ words per month
 
-Are you an authoritative writer with a background in journalism, English, and software? Do you hack around with Python scripts and a Raspberry Pi on the weekends? Does _container_ mean more than just tupperware to you? Are you unafraid of setting up interviews and getting quotes from interesting thought leaders in the tech world?
+Are you an authoritative writer with a background in journalism, English, and software? Do you hack around with Python scripts and a Raspberry Pi on the weekends? Are you excited about setting up interviews and getting quotes from interesting thought leaders in the tech world?
 
 If so, we've got a role for you!
 
