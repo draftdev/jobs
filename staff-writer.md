@@ -1,5 +1,5 @@
-# Staff Writer (Software Development Tools) at [Draft.dev](https://draft.dev/)
-> Contract, $0.33 - $0.45 per word depending on experience, 9000+ words per month
+# Contract Writer (Software Development Tools) at [Draft.dev](https://draft.dev/)
+> $0.33 - $0.45 per word depending on experience, 9000+ words per month
 
 Are you an authoritative writer with a background in journalism, English, and software? Do you hack around with Python scripts and a Raspberry Pi on the weekends? Does _container_ mean more than just tupperware to you? Are you unafraid of setting up interviews and getting quotes from interesting thought leaders in the tech world?
 
@@ -7,7 +7,7 @@ If so, we've got a role for you!
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBouoDde7GyLtug)
 
-![Job: Staff Writer (Software Development Tools) at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
+![Job: Contract Writer (Software Development Tools) at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, [we're a small, but focused team](https://twitter.com/KarlLHughes/status/1337141695432024065) of technologists, writers, marketers, editors, and designers.
