@@ -34,7 +34,7 @@ Here are some examples of the types of articles you'll be responsible for writin
 You may also have to work with developers or source code samples occasionally. You don't have to be an expert coder, but you should be able to scan a piece of code and get some idea about what's going on.
 
 ### Expectations:
-- 6-10 ~1500-word articles per month (depending on your availablity)
+- 6-10 ~1500-word articles per month (depending on your availability)
 - Consistent 1-2 day turnarounds on edits (usually 1-2 rounds per article)
 - Weekly editorial planning meeting for each month's assignments
 
