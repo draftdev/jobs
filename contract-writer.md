@@ -12,7 +12,7 @@ If so, we've got a role for you!
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, [we're a small, but focused team](https://twitter.com/KarlLHughes/status/1337141695432024065) of technologists, writers, marketers, editors, and designers.
 
-**And now we're looking for someone to join as our first staff writer.**
+**And now we're looking for someone to join as a regular contract writer.**
 
 ### We'd Like Someone Who Can:
 - Understand complex technical topics at a high level 
