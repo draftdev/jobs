@@ -15,7 +15,7 @@ If so, we've got a role for you!
 **And now we're looking for someone to join as a regular contract writer.**
 
 ### We'd Like Someone Who Can:
-- Understand complex technical topics at a high level 
+- Understand complex technical topics at a high level (big plus if you have any past software engineering, product management, or team leadership experience)
 - Perform detailed research
 - Find and interview sources (technology team leaders, software engineers, and data scientists)
 - Write with a genuine, persuasive, and authoritative style
