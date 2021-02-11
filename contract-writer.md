@@ -1,5 +1,5 @@
 # Contract Writer (Software Development Tools) at [Draft.dev](https://draft.dev/)
-> $0.33 - $0.45 per word depending on experience, 9000+ words per month
+> $0.33 - $0.45 per word depending on experience
 
 Are you an authoritative writer with a background in journalism, English, and software? Do you hack around with Python scripts and a Raspberry Pi on the weekends? Are you excited about setting up interviews and getting quotes from interesting thought leaders in the tech world?
 
@@ -34,7 +34,7 @@ Here are some examples of the types of articles you'll be responsible for writin
 You may also have to work with developers or source code samples occasionally. You don't have to be an expert coder, but you should be able to scan a piece of code and get some idea about what's going on.
 
 ### Expectations:
-- 6-10 ~1500-word articles per month (depending on your availability)
+- 1-4 ~1500-word articles per month (depending on your availability)
 - Consistent 1-2 day turnarounds on edits (usually 1-2 rounds per article)
 - Weekly editorial planning meeting for each month's assignments
 
