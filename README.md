@@ -16,6 +16,6 @@ If you're reading this, I can only assume that you're interested in working for 
 
 We strive to improve inclusivity and diversity in tech. Our writers, clients, and readers come from a wide variety of backgrounds and countries. We believe our staff should reflect this diversity as well. 🌏 ⚧ 🌈
 
-To support this goal, we are 100% remote and 90%+ asynchronous. We don't rely on Slack or other real-time chat tools that force butts to be in seats at certain times. Finally, we believe in paying fair rates and giving people honest, straightforward feedback. We're a small company, but growing quickly.
+To support this goal, we are 100% remote and 90%+ asynchronous. We don't rely on Slack or other real-time chat tools that force butts to be in seats at certain times. Finally, we believe in paying fair rates and giving people honest, straightforward feedback.
 
 Questions? Comments? Email karl@draft.dev
