@@ -17,38 +17,30 @@ If so, we've got a role for you!
 -----
 
 ### We'd Like Someone Who Can:
-- Understand complex technical topics at a high level (big plus if you have any past software engineering, product management, or team leadership experience)
+- Understand complex technical topics at a high level (must have prior software engineering, product management, or team leadership experience)
 - Perform detailed research
-- Find and interview sources (technology team leaders, software engineers, and data scientists)
-- Write with a genuine, persuasive, and authoritative style
-- Consistently deliver high-quality written work on deadline with a positive attitude and learning mindset
+- Learn new topics at a high-level very quickly
+- Condense and organize information into an easily digestible outline
+- Consistently deliver high-quality work on deadline with a positive attitude and learning mindset
 
-### The Kind of Content You'll Write
-Here are some examples of the types of articles you'll be responsible for writing each month. While you probably won't know everything about these topics, you'll be responsible for researching each topic and finding suitable sources to help you create authoritative content surrounding software development and leadership:
+### What You'll Do
+You'll be in charge of turning a rough idea for an article into a detailed content brief ([here's an example](https://draft.dev/learn/posts/content-plan)). Our writers will then use that brief to compose articles for our clients.
 
-- [The Case for Codeless Testing](https://www.telerik.com/blogs/case-for-codeless-testing)
-- [Bring Your Own Cloud: Introduction to Bitmovin Cloud Connect Encoding](https://bitmovin.com/introducing-cloud-connect-encoding-aws-gcp-azure/)
-- [Too Big for Shopify and Too Fast for Salesforce?](https://resources.fabric.inc/blog/shopify-salesforce)
-- [How to Find a CTO: Tips for Non Technical Founders](https://www.karllhughes.com/posts/non-technical-founder-hiring-cto)
-- [23 Alternative Career Paths for Software Developers](https://www.freecodecamp.org/news/alternative-career-paths/)
-- [What the "No-Code" Movement Means for Software Developers](https://www.telerik.com/blogs/what-no-code-movement-means-for-software-developers)
-
-You may also have to work with developers or source code samples occasionally. You don't have to be an expert coder, but you should be able to scan a piece of code and get some idea about what's going on.
+Sometimes you'll have to use your Googling skills to find similar articles for use as a template. Other times, you'll need to read the documentation and learn how a new tool works. Once you understand the topic, you'll create a detailed outline and description for the article and then make revisions as requested by the client.
 
 ### Expectations:
-- 1-4 ~1500-word articles per month (depending on your availability)
-- Consistent 1-2 day turnarounds on edits (usually 1-2 rounds per article)
-- Weekly editorial planning meeting for each month's assignments
+- Create 10+ briefs per week (depending on your availability)
+- 2-day turnarounds on revisions
+- Prompt, professional communication via email
 
 ### Perks:
-- Flexible hours, location, and (almost always) asynchronous work
-- Competitive pay rate, $0.33-$0.45 per word (depending on experience)
-- Regular feedback from our editor and subject matter experts
+- 100% flexible hours, location, and asynchronous work
+- Regular feedback from our team and clients
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly-growing small business
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBouoDde7GyLtug)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrjG2UG3HPdn2wSA)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
