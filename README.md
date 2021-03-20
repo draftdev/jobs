@@ -6,7 +6,7 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
-- **[Account Manager](#) ($40 per hour)** - If you're a stellar communicator who wants to help clients with specialized content needs, we'd like to talk.
+- **[Account Manager](https://github.com/draftdev/jobs/blob/main/account-manager.md) ($40 per hour)** - If you're a stellar communicator who wants to help clients with specialized content needs, we'd like to talk.
 - **[Associate Editor - Coming soon](#) ($40 per hour)** - Do you pride yourself in your attention to detail and organization? Are you comfortable editing technical content and working with subject matter experts? Then this will be a great fit.
 - **[Contract Writer](https://github.com/draftdev/jobs/blob/main/contract-writer.md) ($500+ per blog post)** - Are you a writer who'd like consistent freelance work writing technical content in an authoritative voice for various clients? We've got work for you!
 - **[Freelance Technical Writer](https://draft.dev/#write) ($300-$500 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Unlike our Contract Writers, you can contribute as much or as little as you want - no monthly minimums.
