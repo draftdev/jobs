@@ -21,7 +21,7 @@ If you're a stellar written communicator who can organize and manage lots of sim
 - Understand the fundamentals of content marketing
 
 ### Expectations:
-- 3+ years of account management, marketing, or sales experience
+- 3+ years of account management, marketing, or related experience
 - 20 - 30 working hours per week
 - Deliver on deadlines
 - Adhere to and improve account management processes
