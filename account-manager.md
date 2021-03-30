@@ -34,8 +34,10 @@ If you're a stellar written communicator who can organize and manage lots of sim
 - Help shape the direction of a quickly-growing small business
 - The opportunity to transition to a full-time W2 role at the end of 2021 (if you want)
 
-## Ready to Apply?
-
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrH7UwEKiY5LG9cP)
+## Hiring Process
+1. [Submit your application](https://airtable.com/shrH7UwEKiY5LG9cP)
+2. You'll complete a role playing assignment that via email (will just take a few minutes).
+3. You'll join a 45-minute phone interview to learn about your experience and the role.
+4. You'll complete a 2-hour paid sample project.
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
