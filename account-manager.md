@@ -1,5 +1,5 @@
 # Account Manager at [Draft.dev](https://draft.dev/)
-> $40 per hour, 20-30 hours per week
+> $40 per hour, 30-40 hours per week
 
 If you're a stellar written communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you. As an Account Manager, you'll be in charge of onboarding, delivering, and renewing our clients (marketing teams at technology startup companies). If you have a background in content marketing, marketing agency account management, or any technical product fields, you'll have a big advantage understanding our clients and content.
 
@@ -22,7 +22,7 @@ If you're a stellar written communicator who can organize and manage lots of sim
 
 ### Expectations:
 - 3+ years of account management, marketing, or related experience
-- 20 - 30 working hours per week
+- 30-40 working hours per week
 - Deliver on deadlines
 - Adhere to and improve account management processes
 - Weekly account management check-in meeting
