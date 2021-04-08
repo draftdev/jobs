@@ -34,6 +34,11 @@ We're currently looking for 1-2 freelance editors to join the team at Draft.dev!
 - Work directly with [Draft.dev's Managing Editor](https://www.linkedin.com/in/chriswolfgang/) for guidance
 - Help shape the direction of a quickly-growing small business and help our freelance writers improve their skills
 
+## Hiring Process
+1. [Submit your application](https://airtable.com/shr9Yge2R86VHuAUQ).
+2. Top applicants will be asked to complete a paid trial assignment.
+3. You'll join a 30-minute intro call to learn more about our process and team.
+
 ## Ready to Apply?
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
