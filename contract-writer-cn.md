@@ -1,5 +1,5 @@
 # Contract Writer (Cloud Native) at [Draft.dev](https://draft.dev/)
-> $500 per blog post
+> $2000+ per month
 
 Are you an authoritative writer with a background in cloud native computing? Are you interested in sharing your knowledge about Kubernetes, Docker, and hosting strategies in a way that's approachable and creative? Do you love learning new technologies and helping others learn them too?
 
