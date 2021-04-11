@@ -5,9 +5,9 @@ Are you an authoritative writer with a background in cloud native computing? Are
 
 If so, we've got a role for you!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBouoDde7GyLtug)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shroiEyt7B2NjzDPp)
 
-![Job: Contract Writer (Cloud Native) at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
+![Job: Contract Writer (Cloud Native) at Draft.dev](https://draft.dev/learn/assets/posts/engineering-12.png)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books that help engineers learn modern best practices. Founded in 2020, we're a small but quickly growing team of technologists, writers, editors, and designers.
@@ -33,6 +33,6 @@ If so, we've got a role for you!
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBouoDde7GyLtug)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shroiEyt7B2NjzDPp)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
