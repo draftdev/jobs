@@ -27,7 +27,7 @@ If so, we've got a role for you!
 
 ### Perks:
 - Flexible hours, location, and completely asynchronous work
-- Competitive pay rate
+- Competitive pay rate: $500 per blog post with a 4 post per month minimum
 - Regular feedback from our editor and subject matter experts
 - Build name recognition: all content is credited to you personally
 
