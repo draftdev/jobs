@@ -6,9 +6,9 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
+- **[Sales Representative](/sales-rep.md) (Salary TBD)** - If you understand SaaS startups and have experience selling services to them, this could be a great opportunity for you. More details will be coming soon!
 - **[Freelance Editor](/editor.md) ($40 per hour)** - Do you pride yourself in your attention to detail and organization? Are you comfortable editing technical content and working with subject matter experts? Then this will be a great fit.
-- **[Contract Writer (Cloud Native)](/contract-writer-cn.md) ($2000 per month)** - If you specialize in Kubernetes and you want steady writing work to showcase your expertise while being paid competitively, this role is for you.
-- **[Freelance Technical Writer](https://draft.dev/#write) ($300-$500 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Unlike our Contract Writers, you can contribute as much or as little as you want - no monthly minimums.
+- **[Freelance Technical Writer](https://draft.dev/#write) ($300-$400 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Unlike our Contract Writers, you can contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
 [Draft.dev](http://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, editors, and designers.
