@@ -7,7 +7,6 @@ If you're reading this, I can only assume that you're interested in working for 
 ## Open Roles
 
 - **[Sales Representative](/sales-rep.md) (Salary TBD)** - If you understand SaaS startups and have experience selling services to them, this could be a great opportunity for you. More details will be coming soon!
-- **[Freelance Editor](/editor.md) ($40 per hour)** - Do you pride yourself in your attention to detail and organization? Are you comfortable editing technical content and working with subject matter experts? Then this will be a great fit.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Unlike our Contract Writers, you can contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
