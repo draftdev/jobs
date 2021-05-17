@@ -17,14 +17,14 @@ Keep reading to learn more!
 -----
 
 ### What You'll Be Responsible for
-At a high-level, you're in charge of making sure each piece of content we return to clients is technically accurate. You'll do this by helping us find, recruit, and retain the best software engineering writers we can find, writing outlines to help guide writers, and performing technical reviews on content before it's returned to clients.
+**At a high-level, you're in charge of making sure each piece of content we return to clients is technically accurate.** You'll do this by helping us find, recruit, and retain the best software engineering writers we can find, writing outlines to help guide writers, and performing technical reviews on content before it's returned to clients.
 
 Your day-to-day tasks will include:
 
 - Creating briefs and outlines based on various topics and keywords
 - Writing content for clients
 - Evaluating writer applicants for tech and writing skills
-- Technical reviews on blog posts (especially for first-time writers)
+- Technical reviews and feedback on other writers' work
 - Creating architecture diagrams to help illustrate technical concepts
 - Occasionally revising content when the author is unavailable
 - Running monthly writer workshops
