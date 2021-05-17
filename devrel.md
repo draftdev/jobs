@@ -1,7 +1,7 @@
 # Developer Relations: Technical Content Specialist at [Draft.dev](https://draft.dev/)
 > $50/hour, full-time contract
 
-If you're a senior-level software engineer who loves writing, teaching, and helping other developers improve their careers, this is the role for you. As our first in-house Developer Relations hire, you'll be responsible for writing technical blog posts for our clients, recruiting other writers, reviewing technical content for accuracy, and running monthly technical writing workshops.
+If you're a senior-level software engineer who loves writing, teaching, and helping other developers improve their careers, this is the role for you. As our first in-house Developer Relations team member, you'll be responsible for writing technical blog posts for our clients, recruiting other writers, reviewing technical content for accuracy, and running monthly technical writing workshops.
 
 Keep reading to learn more!
 
