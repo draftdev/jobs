@@ -55,6 +55,7 @@ Some of these are hard requirements, some are suggestions, and others are just a
 1. [Submit your application](https://airtable.com/shrhQ6GHzWT0AJN4h).
 2. We'll reach out to schedule a call if your prior experience is a good fit.
 3. Top applicants will be asked to complete a paid trial assignment.
+4. We'll get back to you with a formal offer if the assignment goes well.
 
 ## Ready to Apply?
 
