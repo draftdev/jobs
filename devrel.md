@@ -53,9 +53,10 @@ Some of these are hard requirements, some are suggestions, and others are just a
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shrhQ6GHzWT0AJN4h).
-2. We'll reach out to schedule a call if your prior experience is a good fit.
+2. We'll reach out to schedule an introductory call if your prior experience is a good fit.
 3. Top applicants will be asked to complete a paid trial assignment.
-4. We'll get back to you with a formal offer if the assignment goes well.
+4. After your trial, we'll have a final one-hour interview.
+5. We'll get back to you with a formal offer if the assignment and interview go well.
 
 ## Ready to Apply?
 
