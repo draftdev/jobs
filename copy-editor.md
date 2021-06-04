@@ -5,7 +5,7 @@ Are you a detail-oriented copy editor who can adhere to a style guide? Are you c
 
 We're currently looking for a new freelance copy editor to join the team at Draft.dev!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrIZn1T6KMJn4n3v)
 
 ![Job: Freelance Editor at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
@@ -35,12 +35,12 @@ We're currently looking for a new freelance copy editor to join the team at Draf
 - Help shape the direction of a quickly-growing small business
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shr9Yge2R86VHuAUQ).
+1. [Submit your application](https://airtable.com/shrIZn1T6KMJn4n3v).
 2. Top applicants will be asked to complete a paid trial assignment.
 3. You'll join a 30-minute intro call to learn more about our process and team.
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrIZn1T6KMJn4n3v)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
