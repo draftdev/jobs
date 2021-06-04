@@ -1,4 +1,4 @@
-# Freelance Editor at [Draft.dev](https://draft.dev/)
+# Freelance Copy Editor at [Draft.dev](https://draft.dev/)
 > $30 per hour, 10-20 hours per week
 
 Are you a detail-oriented copy editor who can adhere to a style guide? Are you comfortable working in markdown? Know the difference between a copy edit and a line edit?
