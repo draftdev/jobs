@@ -6,8 +6,7 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
-- **[Developer Relations: Technical Content Specialist](/devrel.md) ($55/hour, full-time)** - If you're a senior-level software engineer who loves writing, teaching, and helping other developers improve their careers, this is the role for you.
-- **[Sales Representative](/sales-rep.md) (Coming soon)** - If you understand SaaS startups and have experience selling services to them, this could be a great opportunity for you. More details will be coming soon!
+- **[Copy Editor](#) ($30 per hour)** - Do you pride yourself in your attention to detail? Are you comfortable adhering to a style guide? Familiar with CMS? Know the difference between a copy edit and a line edit? Then this will be a great fit.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Unlike our Contract Writers, you can contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
