@@ -15,16 +15,16 @@ We're currently looking for a new freelance copy editor to join the team at Draf
 **And now we're looking for the latest addition to our editing team.**
 
 ### We'd Like Someone Who Can:
-- Clean up writing for clarity and readability, especially for ESL writers
+- Correct grammar, spelling, and punctuation errors, especially for ESL writers
 - Follow a detailed style guide and work in [markdown](https://www.markdownguide.org/) format.
-- Correct grammar and spelling errors precisely.
+- Ensure that final article is polished and client-ready, making sure formatting and deliverables are correct and complete
 - Promptly and clearly communicate with Draft.dev team members
 
 ### Expectations:
 - 2+ years of professional copy editing experience
-- Comfortable with line editing and working from a style guide
+- Comfortable working from a house style guide as well as standards like CMS
 - 10–20 work hours available per week
-- Deliver on deadlines with 24-48 hour turnarounds
+- Deliver on deadlines with 48-72 hour turnarounds
 - Adhere to and improve editing processes, style guides, etc.
 - Comfortable in all-remote environment
 
@@ -32,7 +32,7 @@ We're currently looking for a new freelance copy editor to join the team at Draf
 - Flexible hours, location, and asynchronous work
 - $30/hour starting pay rate
 - Work directly with [Draft.dev's Managing Editor](https://www.linkedin.com/in/chriswolfgang/) for guidance
-- Help shape the direction of a quickly-growing small business
+- Help shape the direction of a quickly growing small business
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shrIZn1T6KMJn4n3v).
