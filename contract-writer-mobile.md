@@ -1,5 +1,5 @@
 # Contract Writer (Mobile) at [Draft.dev](https://draft.dev/)
-> $400 per article
+> $400 per ~1500-word article
 
 Are you an authoritative writer with a background building mobile apps in iOS and Android? Are you interested in sharing your knowledge about mobile app development, continuous integration, and quality assurance in a way that's approachable and creative? Do you love learning new technologies and helping others learn them too?
 
