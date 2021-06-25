@@ -22,7 +22,7 @@ We're currently looking for freelance editors to join the team at Draft.dev!
 
 ### Expectations:
 - 3+ years of professional editing and/or writing experience in technical or comparably complex subject matter
-- Proficient in copy editing, comfortable with line editing and development editing
+- Proficient in developmental editing, copy editing, and line editing
 - 10–20 work hours available per week
 - Deliver on deadlines
 - Adhere to and improve editing processes, style guides, etc.
