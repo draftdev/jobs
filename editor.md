@@ -3,7 +3,7 @@
 
 Are you a detail-oriented, passionate editor who enjoys learning and reading technical content? Are you able to give constructive and positive feedback to subject matter experts who might be new to writing professionally?
 
-We're currently looking for 1-2 freelance editors to join the team at Draft.dev! 
+We're currently looking for freelance editors to join the team at Draft.dev! 
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
 
@@ -12,7 +12,7 @@ We're currently looking for 1-2 freelance editors to join the team at Draft.dev!
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, editors, and designers.
 
-**And now we're looking for the latest addition to our editing team.**
+**And now we're looking for the next addition to our editing team.**
 
 ### We'd Like Someone Who Can:
 - Give writers feedback and guidance to structure their articles
