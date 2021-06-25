@@ -6,7 +6,8 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
-- **[Copy Editor](/copy-editor.md) ($30 per hour)** - Do you pride yourself in your attention to detail? Are you comfortable adhering to a style guide? Familiar with CMS? Know the difference between a copy edit and a line edit? Then this will be a great fit.
+- **[Copy Editor](/copy-editor.md) ($30 per hour, 10-20 hours/week)** - Do you pride yourself in your attention to detail? Are you comfortable adhering to a style guide? Familiar with CMS? Know the difference between a copy edit and a line edit? Then this will be a great fit.
+- **[Developmental Editor](/editor.md) ($40 per hour, 10-20 hours/week)** - Are you comfortable editing technical content and working with subject matter experts? Do you like to look at work holistically and provide guidance to writers? Then check this job out to learn more.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
