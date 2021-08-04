@@ -1,7 +1,7 @@
 # Account Manager at [Draft.dev](https://draft.dev/)
 > $40 per hour, 30-40 hours per week
 
-If you're a stellar written communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you. As an Account Manager, you'll be in charge of onboarding, delivering, and renewing our clients (marketing teams at technology startup companies). If you have a background in content marketing, marketing agency account management, or any technical product fields, you'll have a big advantage understanding our clients and content.
+If you're a stellar written communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you. As an Account Manager, you'll help with new client sales and onboarding, delivery of content, and renewing our clients (marketing teams at technology startup companies). If you have a background in content marketing, marketing agency account management, or developer marketing/relations, you'll have a big advantage understanding our clients and content.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrH7UwEKiY5LG9cP)
 
@@ -10,14 +10,16 @@ If you're a stellar written communicator who can organize and manage lots of sim
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of technologists, writers, marketers, editors, and designers.
 
-**And now we're looking for someone to join as our first Account Manager.**
+[Read more in our recent feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
+
+**And now we're looking for someone to join our Account Management team!**
 
 ### We'd Like Someone Who Can:
-- Understand complex technical topics at a high level (big plus if you have any past software engineering or product management experience)
+- Understand complex technical topics at a high level (big plus if you have any past software engineering or developer relations experience)
+- Take notes during sales meetings, set appointments, and manage our sales follow ups (using Pipedrive)
 - Check and deliver finished work to clients based on given deadlines
 - Promptly and clearly communicate with clients and Draft.dev team members
-- Coordinating the creation of [content plans](https://draft.dev/learn/posts/content-plan) with our researchers
-- Facilitate renewals and onboarding with clients
+- Facilitate renewals and [onboarding with clients](https://draft.dev/learn/client-onboarding)
 - Understand the fundamentals of content marketing
 
 ### Expectations:
