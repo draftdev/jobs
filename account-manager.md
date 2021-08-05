@@ -3,7 +3,7 @@
 
 If you're a stellar written communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you. As an Account Manager, you'll help with new client onboarding, delivery of content, and renewing our clients (marketing teams at technology startups). If you have a background in content marketing, marketing agency account management, or developer marketing/relations, you'll have a big advantage understanding our clients and content.
 
-*Note: This is not a sales role. You will primarily be maintaining and improving relationships with existing clients.*
+*Note: This is not a sales role. You will primarily be maintaining and improving relationships with existing clients. If you're more interested in an outbound sales role, [we also have an SDR role open here](https://github.com/draftdev/jobs/blob/main/sdr.md).*
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrVtYBtA1L4YkyzS)
 
