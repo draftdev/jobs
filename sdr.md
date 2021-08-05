@@ -15,20 +15,21 @@ If you're a stellar written communicator who enjoys research, taking detailed no
 **And now we're looking for someone to join as our first Sales Development Representative!**
 
 ### We'd Like Someone Who Can:
-- Understand complex technical topics at a high level (big plus if you have any past software development or developer relations experience)
-- Check and deliver finished work to clients based on given deadlines
-- Add social media collateral and images to accompany finished content
-- Promptly and clearly communicate with clients and Draft.dev team members in excellent written English
-- Facilitate renewals and [onboarding with clients](https://draft.dev/learn/client-onboarding)
-- Understand the fundamentals of content marketing
+- Understand our prospects and ideal clients at a high level (big plus if you have any past software development or industry experience)
+- Proactively find and initiate conversations with new leads
+- Promptly and clearly communicate with leads and Draft.dev team members in excellent written English
+- Create and run cold email and Linkedin campaigns using modern tools (we use Apollo and Pipedrive)
+- Qualify and research inbound leads
+- Take notes in sales calls and understand client needs
+- Send follow up emails and campaigns to prospects after initial call
 
 ### Expectations:
-- 3+ years of work experience (sales, marketing agency...
-- ~40 working hours per week
-- Deliver on deadlines
-- Adhere to and improve account management processes
-- Weekly account management check-in meeting
-- Renewal meetings with clients (mostly US and EU-based) at their convenience
+- 2+ years of relevant work experience
+- ~30 working hours per week
+- Native-level English writing
+- Adhere to and improve existing sales processes
+- Weekly sales check-in meetings
+- Joining sales meetings (mostly US and EU-based)
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
