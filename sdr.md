@@ -1,5 +1,5 @@
 # Sales Development Representative (SDR) at [Draft.dev](https://draft.dev/)
-> $20 per hour base + performance bonuses, ~30 hours per week
+> $15 per hour base + performance bonuses, ~40 hours per week
 
 If you're a stellar written communicator who enjoys research, taking detailed notes, and starting conversations, this role could be a great way to advance your sales career. As a Sales Development Representative at Draft.dev, you'll manage outreach to new leads on LinkedIn and email, research prospects, take notes during sales calls, and send follow ups to keep potential clients moving through our pipeline. If you have a background in marketing agency sales or developer marketing/relations, you'll have a big advantage understanding our clients and processes.
 
@@ -17,15 +17,16 @@ If you're a stellar written communicator who enjoys research, taking detailed no
 ### We'd Like Someone Who Can:
 - Understand our prospects and ideal clients at a high level (big plus if you have any past software development or industry experience)
 - Proactively find and initiate conversations with new leads
-- Promptly and clearly communicate with leads and Draft.dev team members in excellent written English
+- Build relationships and look for key indicators that leads might be ready to buy
+- Promptly and clearly communicate with prospects and Draft.dev team members in excellent written English
 - Create and run cold email and Linkedin campaigns using modern tools (we use Apollo and Pipedrive)
 - Qualify and research inbound leads
-- Take notes in sales calls and understand client needs
+- Take notes during sales calls and understand client needs
 - Send follow up emails and campaigns to prospects after initial call
 
 ### Expectations:
 - 2+ years of relevant work experience
-- ~30 working hours per week
+- ~40 working hours per week
 - Native-level English writing
 - Adhere to and improve existing sales processes
 - Weekly sales check-in meetings
@@ -33,7 +34,7 @@ If you're a stellar written communicator who enjoys research, taking detailed no
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
-- $20/hour base pay rate
+- $15/hour base pay rate
 - $100 bonus per meeting set
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly-growing small business
