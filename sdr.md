@@ -1,9 +1,9 @@
 # Sales Development Representative (SDR) at [Draft.dev](https://draft.dev/)
-> $18 per hour base + performance bonuses, ~40 hours per week
+> $21 per hour base + performance bonuses, ~40 hours per week
 
-If you're a stellar communicator who enjoys research, taking detailed notes, and starting conversations, this role could be a great way to advance your sales career.
+If you're a stellar communicator who enjoys research, taking notes, and having conversations, this role could be a great way to advance your sales career.
 
-As a Sales Development Representative at Draft.dev, you'll manage outreach to new leads on LinkedIn and email, research prospects, take notes during sales calls, and send follow ups to keep potential clients moving through our pipeline. If you have a background in marketing agency sales or developer marketing/relations, you'll have a big advantage understanding our clients and processes.
+As a Sales Development Representative at Draft.dev, you'll manage outreach to new leads on LinkedIn and email, research prospects, take notes during sales calls, and send follow ups to keep potential clients moving through our pipeline. If selected, you'll also have the opportunity to move into an Account Executive role with 6 months based on stellar performance.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrUc4UbBwR9odvsl)
 
@@ -23,7 +23,7 @@ As a Sales Development Representative at Draft.dev, you'll manage outreach to ne
 - Promptly and clearly communicate with prospects and Draft.dev team members in excellent written English
 - Create and run cold email and Linkedin campaigns using modern tools (we use Apollo and Pipedrive)
 - Qualify and research inbound leads
-- Take notes during sales calls and understand client needs
+- Take notes and contribute to sales calls to ensure we're a good fit for clients
 - Send follow up emails and campaigns to prospects after initial call
 - Grow into an Account Executive role in 3-6 months
 
@@ -37,11 +37,11 @@ As a Sales Development Representative at Draft.dev, you'll manage outreach to ne
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
-- $18/hour base pay rate
-- $100 bonus per meeting set (targeting 10+ per month)
+- $21/hour base pay rate with on-target earnings of $67,000+ annually 
+- $100 bonus per meeting set, targeting 20 per month with no max
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Help shape the direction of a quickly-growing small business
-- Opportunity to advance to a commission-based Account Executive role and lead sales calls in 3-6 months depending on performance
+- Help shape the direction of a quickly-growing small business (we've already 10x-ed revenue this year and will likely double again by the end of the year)
+- Opportunity to advance to a commission-based Account Executive role and lead sales calls in 3-6 months
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shrUc4UbBwR9odvsl)
