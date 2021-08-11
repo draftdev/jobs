@@ -7,7 +7,7 @@ If you're reading this, I can only assume that you're interested in working for 
 ## Open Roles
 
 - **[Account Manager](/account-manager.md) ($40 per hour, ~40 hours/week)** - If you're a stellar written communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you.
-- **[Sales Development Representative](/sdr.md) ($18 per hour + bonuses, ~40 hours/week)** - Accelerate your agency sales career by joining Draft.dev. If you can write great emails, do client research, and pick up technical topics quickly, this is a great opportunity to grow with us.
+- **[Sales Development Representative](/sdr.md) ($21 per hour + bonuses, ~40 hours/week)** - Accelerate your agency sales career by joining Draft.dev. If you can write great emails, do client research, and pick up technical topics quickly, this is a great opportunity to grow with us.
 - **[Developmental Editor](/editor.md) ($40 per hour, 10-20 hours/week)** - Are you comfortable editing technical content and working with subject matter experts? Do you like to look at work holistically and provide guidance to writers? Then check this job out to learn more.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
 
