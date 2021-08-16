@@ -1,20 +1,20 @@
-# Sales Consultant/Account Executive at [Draft.dev](https://draft.dev/)
+# Account Executive at [Draft.dev](https://draft.dev/)
 > $105,000+ on target earnings, full-time contract
 
 If you're a stellar communicator with a background in technology, this role could be a great way to advance your career.
 
-As our first Sales Consultant at Draft.dev, you'll oversee the entire sales proces from outreach to new leads via LinkedIn and email, to researching prospects, to leading sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
+As our first Account Executive at Draft.dev, you'll oversee the entire sales proces from outreach to new leads via LinkedIn and email, to researching prospects, to leading sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrUc4UbBwR9odvsl)
 
-![Job: Sales Consultant at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
+![Job: Account Executive at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're small, but have grown revenue 8x in 2021 already and expect to double again by the end of the year.
 
 [Read more in our recent feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
-**And now we're looking for someone to join as our first Sales Consultant!**
+**And now we're looking for someone to join as our first Account Executive!**
 
 ### We'd Like Someone Who Can:
 - Understand our prospects and ideal clients at a high level (past software development or industry experience is a big plus)
