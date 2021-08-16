@@ -1,4 +1,4 @@
-# Sales Consultant at [Draft.dev](https://draft.dev/)
+# Sales Consultant/Account Executive at [Draft.dev](https://draft.dev/)
 > $105,000+ on target earnings, full-time contract
 
 If you're a stellar communicator with a background in technology, this role could be a great way to advance your career.
