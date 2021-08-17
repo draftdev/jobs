@@ -1,5 +1,5 @@
 # Account Manager at [Draft.dev](https://draft.dev/)
-> $40 per hour, ~40 hours per week
+> $83,200/year, full-time contract
 
 If you're a stellar written communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you. As an Account Manager, you'll help with new client onboarding, delivery of content, and renewing our clients (marketing teams at technology startups). If you have a background in content marketing, marketing agency account management, or developer marketing/relations, you'll have a big advantage understanding our clients and content.
 
@@ -34,7 +34,7 @@ If you're a stellar written communicator who can organize and manage lots of sim
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
-- $40/hour starting pay rate
+- $83,200 annual salary, paid monthly
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly-growing small business
 
