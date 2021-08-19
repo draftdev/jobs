@@ -27,7 +27,7 @@ As our first Account Executive at Draft.dev, you'll oversee the entire sales pro
 - Send follow up emails and campaigns to prospects after calls
 
 ### Expectations:
-- 4+ years of relevant work experience
+- 2+ years of relevant work experience
 - ~40 working hours per week
 - Native-level English writing and speaking skills
 - Adhere to and improve existing sales processes
