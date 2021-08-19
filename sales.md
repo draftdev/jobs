@@ -1,9 +1,9 @@
 # Account Executive at [Draft.dev](https://draft.dev/)
 > $105,000+ on target earnings, full-time contract
 
-If you're a stellar communicator with a background in technology, this role could be a great way to advance your career.
+If you're a stellar communicator with an interest in technology, this role could be a great way to advance your sales career.
 
-As our first Account Executive at Draft.dev, you'll oversee the entire sales proces from outreach to new leads via LinkedIn and email, to researching prospects, to leading sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
+As our first Account Executive at Draft.dev, you'll oversee the entire sales process from outreach to new leads via LinkedIn and email, to researching prospects, to leading sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrUc4UbBwR9odvsl)
 
