@@ -1,5 +1,5 @@
 # Sales Development Representative (SDR) at [Draft.dev](https://draft.dev/)
-> $67,000+ on target earnings, full-time contract
+> $72,000+ on target earnings, full-time contract
 
 If you're a stellar communicator and go-getter who wants to join a quickly growing service business in the tech industry, this role could be a great way to advance your sales career.
 
@@ -39,8 +39,8 @@ We've gone from 0 to 40 clients in just a year and are set to double again in th
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
-- $21/hour base pay rate with on-target earnings of $67,000+ annually 
-- $100 bonus per meeting set, targeting 20 per month with no max
+- $21/hour base pay rate with on-target earnings of $72,000 annually
+- $150 bonus for each meeting set, with no max (13/month target)
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly-growing small business (we've already 10x-ed revenue this year and will likely double again by the end of the year)
 - Opportunity to advance to a commission-based Account Executive role and lead sales calls in 3-6 months
