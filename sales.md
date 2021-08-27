@@ -3,14 +3,14 @@
 
 If you're a stellar communicator with an interest in technology, this role could be a great way to advance your sales career.
 
-As our first Account Executive at Draft.dev, you'll oversee the entire sales process from outreach to new leads via LinkedIn and email, to researching prospects, to leading sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
+We've grown from 0-40 clients in just a year and are on track to double again in the next six months. As our first Account Executive, you'll oversee the entire sales process from handling inbound interest, to researching leads, to running sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrUc4UbBwR9odvsl)
 
 ![Job: Account Executive at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
 
 ## About the Company
-[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're small, but have grown revenue 8x in 2021 already and expect to double again by the end of the year.
+[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're small, but have grown revenue 8x in 2021 already and expect to double again in the next six months.
 
 [Read more in our recent feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
@@ -27,7 +27,7 @@ As our first Account Executive at Draft.dev, you'll oversee the entire sales pro
 - Send follow up emails and campaigns to prospects after calls
 
 ### Expectations:
-- 2+ years of relevant work experience
+- 3+ years of relevant work experience
 - ~40 working hours per week
 - Native-level English writing and speaking skills
 - Adhere to and improve existing sales processes
