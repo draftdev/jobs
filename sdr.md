@@ -42,7 +42,7 @@ We've gone from 0 to 40 clients in just a year and are set to double again in th
 - $21/hour base pay rate with on-target earnings of $72,000 annually
 - $150 bonus for each meeting set, with no max (13/month target)
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Help shape the direction of a quickly-growing small business (we've already 10x-ed revenue this year and will likely double again by the end of the year)
+- Help shape the direction of a quickly-growing small business (we've already 8x-ed revenue this year and will likely double again in the next 6 months)
 - Opportunity to advance to a commission-based Account Executive role and lead sales calls in 3-6 months
 
 ## Hiring Process
