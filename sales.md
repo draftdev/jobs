@@ -16,7 +16,7 @@ We've grown from 0-40 clients in just a year and are on track to double again in
 
 **And now we're looking for someone to join as our first Account Executive!**
 
-### Daily and Monthly Responsibilities:
+### Day-to-Day Responsibilities:
 - Understand our prospects and ideal clients at a high level
 - Perform prospecting activities to drive new business growth
 - Build relationships and identify key buying signals to move prospects through the sales pipeline
