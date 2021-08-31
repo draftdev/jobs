@@ -18,24 +18,26 @@ We've gone from 0 to 40 clients in just a year and are set to double again in th
 
 **And now we're looking for someone to join as our first Sales Development Representative**
 
-### We'd Like Someone Who Can:
-- Understand our prospects and ideal clients at a high level (big plus if you have any past software development or industry experience)
-- Proactively find and initiate conversations with new leads
-- Build relationships and look for key indicators that leads might be ready to buy
-- Promptly and clearly communicate with prospects and Draft.dev team members in excellent written English
-- Create and run cold email and Linkedin campaigns using modern tools (we use Apollo and Pipedrive)
+### Day-to-Day Responsibilities:
+- Understand our prospects and ideal clients at a high level
+- Perform prospecting activities to drive new business growth
+- Build relationships and identify key buying signals to move prospects through the sales pipeline
+- Prompt and clear communication with prospects and Draft.dev team members in excellent written English
+- Create and run cold email and Linkedin campaigns using modern tools
 - Qualify and research inbound leads
 - Take notes and contribute to sales calls to ensure we're a good fit for clients
 - Help with sales ops, setting up automated emails, follow-up campaigns, etc. as needed
-- Grow into an Account Executive role in 3-6 months
-
-### Expectations:
-- 2+ years of professional experience
-- ~40 working hours per week
-- Native-level English writing and speaking skills
-- Adhere to and improve existing sales processes
 - Weekly sales check-in meetings
-- Joining sales meetings (mostly US and EU-based)
+- Joining sales calls in US and EU time zones
+
+### Skills and Qualifications:
+- 2+ years of professional experience
+- Native-level English writing and speaking skills
+- Experience adhering to and improving sales processes
+
+### Preferred Qualifications: 
+- Past software development or industry experience
+- Experience with Apollo and Pipedrive
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
