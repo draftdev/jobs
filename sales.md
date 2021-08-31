@@ -16,23 +16,27 @@ We've grown from 0-40 clients in just a year and are on track to double again in
 
 **And now we're looking for someone to join as our first Account Executive!**
 
-### We'd Like Someone Who Can:
-- Understand our prospects and ideal clients at a high level (past software development or industry experience is a big plus)
-- Proactively find and initiate conversations with new leads
-- Build relationships and look for key indicators that leads might be ready to buy
-- Promptly and clearly communicate with prospects and Draft.dev team members in excellent written English
+### Daily and Monthly Responsibilities:
+- Understand our prospects and ideal clients at a high level
+- Perform prospecting activities to drive new business growth
+- Build relationships and identify key buying signals to move prospects through the sales pipeline
+- Prompt and clear communication with prospects and Draft.dev team members in excellent written English
 - Create and run cold email and Linkedin campaigns using modern tools (we use Apollo and Pipedrive)
 - Qualify and research inbound leads
 - Initially, you'll take notes in sales calls but within 1-3 months, you'll be leading calls independently
 - Send follow up emails and campaigns to prospects after calls
+- Weekly sales check-in meetings
+- Holding sales calls in US and EU time zones
 
-### Expectations:
-- 3+ years of relevant work experience
-- ~40 working hours per week
+### Skills and Qualifications:
+- 3+ years of experience driving full-cycle sales opportunities
 - Native-level English writing and speaking skills
 - Adhere to and improve existing sales processes
-- Weekly sales check-in meetings
-- Holding sales calls in US and EU timezones
+
+### Preferred Qualifications: 
+- Past software development or industry experience
+- Experience with Apollo and Pipedrive
+- Previous experience building sales processes
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work (no travel required)
