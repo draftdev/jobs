@@ -6,9 +6,6 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
-- **[Account Executive](/sales.md) ($105,000/year on-target earnings)** - Accelerate your sales career by joining Draft.dev. If you can write great emails, do client research, lead sales calls, and pick up technical topics quickly, this is a great opportunity to grow with us.
-- **[Sales Development Representative](/sdr.md) ($72,000/year on-target earnings)** - If you're a stellar communicator and go-getter who wants to join a quickly growing service business in the tech industry, this role could be a great way to advance your sales career quickly.
-- **[Developmental Editor](/editor.md) ($40 per hour, 10-20 hours/week)** - Are you comfortable editing technical content and working with subject matter experts? Do you like to look at work holistically and provide guidance to writers? Then check this job out to learn more.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
