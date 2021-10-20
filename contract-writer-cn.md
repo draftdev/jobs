@@ -5,7 +5,7 @@ Are you an authoritative writer with a background in cloud native computing? Are
 
 If so, we've got a role for you!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shroiEyt7B2NjzDPp)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr0Jvrl1oWpCqvZs)
 
 ![Job: Contract Writer (Cloud Native) at Draft.dev](https://draft.dev/learn/assets/posts/engineering-12.png)
 
@@ -33,6 +33,6 @@ If so, we've got a role for you!
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shroiEyt7B2NjzDPp)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr0Jvrl1oWpCqvZs)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
