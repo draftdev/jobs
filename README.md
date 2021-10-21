@@ -6,6 +6,8 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
+- **[Contract Writer: Cloud Native](/contract-writer-cn.md) ($500 per blog post)** - Are you an authoritative writer with a background in cloud native computing? Apply for steady writing opportunities around Kubernetes, Docker, and modern hosting practices.
+- **[Contract Writer: Data Engineering/Analytics](/contract-writer-data.md) ($500 per blog post)** - Are you an authoritative writer with a background in big data, analytics, or machine learning? Apply for steady writing opportunities around data visualization, dbt, data warehouses, and data transformations.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
