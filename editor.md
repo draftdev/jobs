@@ -1,9 +1,9 @@
-# Freelance Editor at [Draft.dev](https://draft.dev/)
-> $40 per hour, 5–10 hours per week
+# Developmental Editor at [Draft.dev](https://draft.dev/)
+> $50 per hour, 10–20 hours per week
 
-Are you a detail-oriented, passionate editor who enjoys learning and reading technical content? Are you able to give constructive and positive feedback to subject matter experts who might be new to writing professionally?
+Do you have experience editing technical content? Are you familiar with the project management of moving an article through multiple stages of edits? Do you know the difference between a developmental edit and a copy edit? Are you able to give constructive and positive feedback to subject matter experts who might be new to writing professionally? 
 
-We're always looking for freelance developmental editors to join our roster! Draft.dev works with a small crew of editors to ensure that our content reaches a high level of polish before we submit it to our clients.
+We're looking for a freelance developmental editor to join our roster. Draft.dev has a robust editing process, from tech reviewers to developmental editors to copy editors, to ensure that our content reaches a high level of polish before we submit it to our clients. Our DEs set the tone for the finished article and see it through the entire editing process.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
 
@@ -17,20 +17,21 @@ We're always looking for freelance developmental editors to join our roster! Dra
 - Clean up writing for clarity and readability, especially for ESL writers
 - Understand complex technical topics at a high level
 - Promptly and clearly communicate with writers and Draft.dev team members
+- Manage several articles simultaneously
 
 ### Expectations:
 - 3+ years of professional editing and/or writing experience in technical or comparably complex subject matter
 - Proficient in developmental editing and/or line editing
-- 5–10 work hours available per week
+- 10–20 work hours available per week
 - Deliver on deadlines
-- Adhere to and improve editing processes, style guides, etc.
+- Adhere to editing processes and style guides
+- Communicate as needed and take instruction from a lead editor
 - Comfortable in all-remote environment
 
 ### Perks:
 - Flexible hours, location, and (almost always) asynchronous work
-- $40/hour starting pay rate
-- Work directly with Draft.dev's managing editor for guidance
-- Help shape the direction of a quickly-growing small business and help our freelance writers improve their skills
+- $50/hour starting pay rate
+- Help shape the direction of a quickly growing small business and help our freelance writers improve their skills
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shr9Yge2R86VHuAUQ). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
@@ -41,4 +42,4 @@ We're always looking for freelance developmental editors to join our roster! Dra
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
 
-Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
+Questions? Email [chris@draft.dev](mailto:chris@draft.dev) for more information.
