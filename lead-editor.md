@@ -5,7 +5,7 @@ Are you an experienced non-fiction editor who enjoys leading a team? Are you fam
 
 We're looking for a full-time lead editor to join our roster! Draft.dev has a robust editing process, from tech reviewers to developmental editors to copy editors, to ensure that our content reaches a high level of polish before we submit it to our clients. Our lead editor will oversee the editorial process, suggest improvements to process and documentation, and work closely with an all-remote team to ensure high-quality edits on every article.
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrlRETFZopZdSSVj)
 
 ![Job: Freelance Editor at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
@@ -36,12 +36,12 @@ We're looking for a full-time lead editor to join our roster! Draft.dev has a ro
 - Help shape the direction of a quickly growing small business and help our freelance writers improve their skills
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shr9Yge2R86VHuAUQ). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
+1. [Submit your application](https://airtable.com/shrlRETFZopZdSSVj). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
 2. Top applicants will be asked to complete a paid trial assignment.
 3. You'll join a 30-minute intro call to learn more about our process and team.
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrlRETFZopZdSSVj)
 
 Questions? Email [chris@draft.dev](mailto:chris@draft.dev) for more information.
