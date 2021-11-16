@@ -31,7 +31,7 @@ We're looking for a freelance developmental editor to join our roster. Draft.dev
 ### Perks:
 - Flexible hours, location, and (almost always) asynchronous work
 - $50/hour starting pay rate
-- Help shape the direction of a quickly-growing small business and help our freelance writers improve their skills
+- Help shape the direction of a quickly growing small business and help our freelance writers improve their skills
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shr9Yge2R86VHuAUQ). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
@@ -42,4 +42,4 @@ We're looking for a freelance developmental editor to join our roster. Draft.dev
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
 
-Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
+Questions? Email [chris@draft.dev](mailto:chris@draft.dev) for more information.
