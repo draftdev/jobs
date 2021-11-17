@@ -32,6 +32,7 @@ We're looking for a full-time lead editor to join our roster! Draft.dev has a ro
 ### Perks:
 - Flexible hours, location, and (almost always) asynchronous work
 - $60/hour starting pay rate
+- 5 weeks PTO
 - Opportunity for advancement within the company
 - Help shape the direction of a quickly growing small business and help our freelance writers improve their skills
 
