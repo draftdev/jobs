@@ -7,6 +7,9 @@ If you're reading this, I can only assume that you're interested in working for 
 ## Open Roles
 
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
+- **[Lead Editor](https://github.com/draftdev/jobs/blob/main/lead-editor.md) ($60 per hour, full-time)** - We're looking for a full-time lead editor! Draft.dev's lead editor will oversee our editorial process and work closely with an all-remote team to ensure high-quality edits on every article.
+- **[Developmental Editor](https://github.com/draftdev/jobs/blob/main/editor.md) ($50 per hour, full-time or part-time)** - We're looking for a developmental editor! Draft.dev's DEs set the tone for the finished article and see it through the entire editing process.
+- **[Copy Editor](https://github.com/draftdev/jobs/blob/main/copyeditor.md) ($35 per hour, part-time)** - We're looking for a copy editor! Draft.dev's copy editors ensure that every article has a final polish before our clients see them.
 
 ## About Draft.dev
 [Draft.dev](http://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, editors, and designers.
