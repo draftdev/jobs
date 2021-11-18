@@ -5,6 +5,8 @@ Are you an experienced non-fiction editor who wants to move in the direction of 
 
 We're looking for a full-time lead editor to join our roster! Draft.dev has a robust editing process, from tech reviewers to developmental editors to copy editors, to ensure that our content reaches a high level of polish before we submit it to our clients. Our lead editor will help oversee the editorial process, suggest improvements to process and documentation, and work closely with an all-remote team to ensure high-quality edits on every article.
 
+*Please note that our full-time positions begin with a six-month contract (1099 if in the US) at the posted hourly rate. After six months, full-time positions convert to a salary (W2 if in the US) equitable to your hourly rate at 40 hours a week. Benefits currently include 5 weeks PTO.*
+
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrlRETFZopZdSSVj)
 
 ![Job: Lead Editor at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
