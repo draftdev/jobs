@@ -5,9 +5,9 @@ Are you a detail-oriented, experienced copy editor? Do you have experience editi
 
 We're looking for a copy editor to join our roster! Draft.dev has a robust editing process, from tech reviewers to developmental editors to copy editors, to ensure that our content reaches a high level of polish before we submit it to our clients. Our copy editors ensure that every article has a final polish before our clients see them.
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrIZn1T6KMJn4n3v)
 
-![Job: Freelance Editor at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
+![Job: Freelance Copy Editor at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, editors, and designers.
@@ -34,12 +34,12 @@ We're looking for a copy editor to join our roster! Draft.dev has a robust editi
 - Help shape the direction of a quickly growing small business and help our freelance writers improve their skills
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shr9Yge2R86VHuAUQ). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
+1. [Submit your application](https://airtable.com/shrIZn1T6KMJn4n3v). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
 2. Top applicants will be asked to complete a paid trial assignment.
 3. You'll join a 30-minute intro call to learn more about our process and team.
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr9Yge2R86VHuAUQ)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrIZn1T6KMJn4n3v)
 
 Questions? Email [chrisl@draft.dev](mailto:chris@draft.dev) for more information.
