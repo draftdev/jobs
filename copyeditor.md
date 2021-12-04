@@ -42,4 +42,4 @@ We're looking for a copy editor to join our roster! Draft.dev has a robust editi
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrIZn1T6KMJn4n3v)
 
-Questions? Email [chrisl@draft.dev](mailto:chris@draft.dev) for more information.
+Questions? Email [chris@draft.dev](mailto:chris@draft.dev) for more information.
