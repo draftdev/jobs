@@ -1,9 +1,9 @@
 # Account Manager at [Draft.dev](https://draft.dev/)
 > $83,200/year, full-time contract
 
-If you're a stellar written communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you. As an Account Manager, you'll help with new client onboarding, delivery of content, and renewing our clients (marketing teams at technology startups). If you have a background in content marketing, marketing agency account management, or developer marketing/relations, you'll have a big advantage understanding our clients and content.
+If you're a stellar communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you. As an Account Manager, you'll help with new client onboarding, delivery of content, and renewing our clients (marketing teams at technology startups). If you have a background in content marketing, marketing agency account management, or developer marketing/relations, you'll have a big advantage understanding our clients and content.
 
-*Note: This is not a sales role. You will primarily be maintaining and improving relationships with existing clients. If you're more interested in an outbound sales role, [we also have an open sales role here](https://github.com/draftdev/jobs/blob/main/sales.md).*
+*Note: This is not a sales role. You will primarily be maintaining and improving relationships with existing clients, but it will require significant face-time with clients and making renewals and upsells.*
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrVtYBtA1L4YkyzS)
 
@@ -12,17 +12,16 @@ If you're a stellar written communicator who can organize and manage lots of sim
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of technologists, writers, marketers, editors, and designers.
 
-[Read more in our recent feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
+[Read more in our feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
 **And now we're looking for someone to join our Account Management team!**
 
 ### We'd Like Someone Who Can:
 - Understand complex technical topics at a high level (big plus if you have any past software development or developer relations experience)
-- Check and deliver finished work to clients based on given deadlines
-- Add social media collateral and images to accompany finished content
-- Promptly and clearly communicate with clients and Draft.dev team members in excellent written English
+- Deliver finished work to clients based on given deadlines
+- Promptly and clearly communicate with clients and Draft.dev team members in excellent written and spoken English
 - Facilitate renewals and [onboarding with clients](https://draft.dev/learn/client-onboarding)
-- Understand the fundamentals of content marketing
+- Understand the fundamentals of content marketing, editorial standards, and search engine optimization
 
 ### Expectations:
 - 3+ years of account management, marketing, or related experience
@@ -31,11 +30,12 @@ If you're a stellar written communicator who can organize and manage lots of sim
 - Adhere to and improve account management processes
 - Weekly account management check-in meeting
 - Renewal meetings with clients (mostly US and EU-based) at their convenience
+- Reliable internet connection and computer
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
-- $83,200 annual salary, paid monthly
-- Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
+- $40/hour pay rate with opportunity to move to equivalent salary ($83,200/year) and paid time off after 6 months
+- Work directly with a team of experienced Account Managers and [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly-growing small business
 
 ## Hiring Process
