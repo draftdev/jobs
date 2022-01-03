@@ -6,7 +6,6 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
-- **[Lead Editor](https://github.com/draftdev/jobs/blob/main/lead-editor.md) ($55 per hour, full-time)** - As our lead editor, you will help oversee our editorial processes and work closely with an all-remote team to ensure high-quality edits on every article.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
