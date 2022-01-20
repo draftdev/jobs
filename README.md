@@ -5,7 +5,7 @@ Hey there 👋
 If you're reading this, I can only assume that you're interested in working for [Draft.dev](http://draft.dev/) or learning about the company. That's great! We're glad to see you.
 
 ## Open Roles
-- **[Freelance Technical Writer](https://draft.dev/write) ($300 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
+- **[Freelance Technical Writer](https://draft.dev/write) ($315 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
 
 ## About Draft.dev
 [Draft.dev](http://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, editors, and designers.
