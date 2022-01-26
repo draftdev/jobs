@@ -1,5 +1,5 @@
 # Developmental Editor at [Draft.dev](https://draft.dev/)
-> $50 per hour, 10–20 hours per week
+> $50 per hour, part-time or full-time
 
 Do you have experience editing technical content? Are you familiar with the project management of moving an article through multiple stages of edits? Do you know the difference between a developmental edit and a copy edit? Are you able to give constructive and positive feedback to subject matter experts who might be new to writing professionally? 
 
@@ -22,7 +22,7 @@ We're looking for a freelance developmental editor to join our roster. Draft.dev
 ### Expectations:
 - 3+ years of professional editing and/or writing experience in technical or comparably complex subject matter
 - Proficient in developmental editing and/or line editing
-- 10–20 work hours available per week
+- Part-time (10–20 hours per week) or full-time (hourly contract for first six months, then salaried) available
 - Deliver on deadlines
 - Adhere to editing processes and style guides
 - Communicate as needed and take instruction from a lead editor
