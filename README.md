@@ -5,6 +5,7 @@ Hey there 👋
 If you're reading this, I can only assume that you're interested in working for [Draft.dev](http://draft.dev/) or learning about the company. That's great! We're glad to see you.
 
 ## Open Roles
+- **[Technical Content Specialist](https://github.com/draftdev/jobs/blob/main/devrel.md) ($50 per hour, full-time)** - If you're an experienced software engineer who wants to increase your impact by helping other developers learn new skills and improve their careers, then this is the role for you.
 - **[Developmental Editor](https://github.com/draftdev/jobs/blob/main/editor.md) ($50 per hour, full-time or part-time)** - We're looking for a developmental editor! Draft.dev's DEs set the tone for the finished article and see it through the entire editing process.
 - **[Copy Editor](https://github.com/draftdev/jobs/blob/main/copyeditor.md) ($35 per hour, part-time)** - We're looking for a copy editor! Draft.dev's copy editors ensure that every article has a final polish before our clients see them.
 - **[Freelance Technical Writer](https://draft.dev/write) ($315 per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want - no monthly minimums.
