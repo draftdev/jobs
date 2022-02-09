@@ -1,5 +1,5 @@
-# Developer Relations: Technical Content Specialist at [Draft.dev](https://draft.dev/)
-> $50/hour, full-time contract, remote
+# Technical Content Specialist at [Draft.dev](https://draft.dev/)
+> $104,000 per year, full-time, remote
 
 If you're an experienced software engineer who wants to increase your impact by helping other developers learn new skills, improve their careers, and make extra money doing it, then this is the role for you! As our next Technical Content Specialist, you'll be responsible for reviewing writer applications (all our writers are full-time engineers), running our writer relations program, and offering developer relations and marketing advice to our clients (all developer tools companies).
 
