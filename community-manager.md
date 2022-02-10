@@ -7,7 +7,7 @@ As our first Technical Writing Community Manager, you'll be responsible for runn
 
 Sound interesting? Keep reading to learn more!
 
-#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrhQ6GHzWT0AJN4h)
+#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrq7ZXY35oshw3uq)
 
 ![Job: Community Manager at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
@@ -26,13 +26,14 @@ Sound interesting? Keep reading to learn more!
 2. Making a first pass at assessing their work to ensure they meet our quality and experience standards
 3. Improving engagement among our existing writers
 
-Your day-to-day tasks will include:
+### Your Day-to-Day Work
 
 - Engaging with communities of software engineers to raise awareness
-- Actively reaching out to specific engineers, inviting them to write for us
+- Actively reaching out to specific people, inviting them to write for us
 - Reviewing writer applications for writing quality as they come in
 - Creating content to promote and feature our writers' accomplishments
 - Running monthly writer education events to help writers improve their skills
+- Managing partnerships with websites, newsletters, and job boards to promote our writing program
 
 ### Skills and Experience We're Looking For
 Some of these are hard requirements, some are suggestions, and others are just a bonus. If you have at least the minimum required skills, we encourage you to apply!
@@ -40,27 +41,29 @@ Some of these are hard requirements, some are suggestions, and others are just a
 - (Requirement) 2+ years previous community management, developer relations, or developer marketing experience
 - (Requirement) Strong English writing and speaking skills
 - Ability to quickly learn and understand technical topics at a high level
+- Experience working with or near software engineers in some capacity
 - Positive personality with an innate drive to help others improve their careers and learn new skills
 - Experience working in a fully-distributed team
 - (Nice-to-Have) Technical writing, editing, or marketing experience
+- (Nice-to-Have) Software engineering, coding bootcamp, or development experience
 
 ### Perks:
 - 100% flexible hours, location, and (mostly) asynchronous work
-- Regular feedback from our team and clients
-- Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes) and our team of Technical Content Specialists
+- Regular feedback from our team
+- Work directly with our team of Editors and Technical Content Specialists
 - Help shape the direction of a quickly-growing small business
 - Transparent hiring process, pay rate, and company insights
 - Hourly contract to start with the opportunity to transition to salary and paid time off in 6 months
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shrhQ6GHzWT0AJN4h).
+1. [Submit your application](https://airtable.com/shrq7ZXY35oshw3uq).
 2. Complete a short trial task over email.
 3. We'll reach out to schedule a Zoom interview.
 4. Top applicants will be asked to complete a 2-4 hour paid trial assignment.
-6. We'll get back to you with a formal offer or rejection within 2 weeks.
+6. We'll get back to you with a formal offer or rejection within 2 weeks
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrhQ6GHzWT0AJN4h)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrq7ZXY35oshw3uq)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
