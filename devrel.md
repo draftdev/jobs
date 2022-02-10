@@ -1,15 +1,15 @@
 # Technical Content Specialist at [Draft.dev](https://draft.dev/)
 > $104,000 per year, full-time, remote
 
-If you're an experienced software engineer who wants to increase your impact by helping other developers learn new skills, improve their careers, and make extra money doing it, then this is the role for you! As our next Technical Content Specialist, you'll be responsible for reviewing writer applications (all our writers are full-time engineers), running our writer relations program, and offering developer relations and marketing advice to our clients (all developer tools companies).
+If you're an experienced software engineer who wants to increase your impact by helping other developers learn new skills, improve their careers, and make extra money doing it, then this is the role for you! As our next Technical Content Specialist, you'll be responsible for helping review writer applications (all our writers are full-time engineers), creating [technical content plans](https://draft.dev/learn/content-plan), and performing tech reviews on content before it goes back to clients.
 
-You'll also get to learn about a wide variety of technical topics. You'll work alongside our team of Technical Content Specialists (all current or former software engineers) and our Founder (a former CTO) to learn how to produce high-quality technical content that resonates with engineers.
+You'll work alongside our team of Technical Content Specialists (all current or former software engineers) and our editorial staff to learn how to produce high-quality technical content that resonates with engineers.
 
 Sound interesting? Keep reading to learn more!
 
 #### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrhQ6GHzWT0AJN4h)
 
-![Job: Developer Relations at Draft.dev](https://draft.dev/learn/assets/posts/programmer.png)
+![Job: Technical Content Specialist at Draft.dev](https://draft.dev/learn/assets/posts/programmer.png)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content production company focused on creating in-depth, technical content for developer tools startups. We work with software engineers from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of engineers, writers, marketers, editors, and designers.
@@ -22,37 +22,31 @@ Sound interesting? Keep reading to learn more!
 
 ### What You'll Be Responsible for
 
-1. Helping recruit and onboard new developers to write for us.
-2. Researching content ideas that resonate with developers.
-
-Your day-to-day tasks will include:
-
-- Reviewing writer applications for technical and writing quality as they come in (all our writers are software developers)
-- Actively recruiting new engineers to write for us and participating in developer communities to build awareness
-- Engaging with communities of software engineers as one of our developer advocates at Draft.dev
-- Learning about new software tools and our clients' developer relations goals
-- Conducting [keyword research](https://draft.dev/learn/topic-clusters) around software engineering, data engineering, and devops topics
-- Conducting [community research](https://draft.dev/learn/community-research) in subreddits, Slack groups, and Stack Overflow to ideate topics that resonate with developers
+- Helping review writer applications
+- Creating technical content plans and outlines for articles
+- Performing technical reviews on articles
+- Weighing in on software engineering questions our editors have
+- Stepping in to revise or write articles when an author is unavailable or you see an interesting topic
 
 ### Skills and Experience We're Looking For
 Some of these are hard requirements, some are suggestions, and others are just a bonus. If you have at least the minimum required skills, we encourage you to apply!
 
 - (Requirement) Mid-level software engineering skills with full-stack experience across a range of technologies
-- (Requirement) Strong English writing and speaking skills
-- Knack for organizing ideas and presenting them logically
-- Interest in researching and learning new cutting-edge engineering topics
-- Willingness to learn the basics of content marketing: keyword research, search engine optimization, and content strategy
+- (Requirement) Strong English writing skills
+- (Requirement) Previous technical writing or editing experience
+- Knack for giving helpful feedback to other engineers
+- Interest in researching and learning new software engineering topics
 - Experience working in a fully-distributed team
-- (Nice-to-Have) Previous developer relations or developer marketing experience
-- (Nice-to-Have) Search engine optimization and keyword research experience
+- (Nice-to-Have) Leadership interest or experience
+- (Nice-to-Have) Data engineering, data science, or machine learning experience
 
 ### Perks:
 - 100% flexible hours, location, and (mostly) asynchronous work
 - Regular feedback from our team and clients
-- Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes) and our team of Technical Content Specialists
+- Work directly with a team of Technical Content Specialists
 - Help shape the direction of a quickly-growing small business
 - Transparent hiring process, pay rate, and company insights
-- Hourly contract to start with the opportunity to transition to salary and paid time off in 6-months
+- Hourly contract to start with the option to transition to salary and paid time off in 6-months
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shrhQ6GHzWT0AJN4h).
