@@ -38,17 +38,17 @@ Sound interesting? Keep reading to learn more!
 ### Skills and Experience We're Looking For
 Some of these are hard requirements, some are suggestions, and others are just a bonus. If you have at least the minimum required skills, we encourage you to apply!
 
-- (Requirement) 2+ years previous community management, developer relations, or developer marketing experience
+- (Requirement) 3+ years previous community management, developer relations, or relevant marketing experience
 - (Requirement) Strong English writing and speaking skills
 - Ability to quickly learn and understand technical topics at a high level
 - Experience working with or near software engineers in some capacity
 - Positive personality with an innate drive to help others improve their careers and learn new skills
 - Experience working in a fully-distributed team
 - (Nice-to-Have) Technical writing, editing, or marketing experience
-- (Nice-to-Have) Software engineering, coding bootcamp, or development experience
+- (Nice-to-Have) Software engineering, coding bootcamp, or software development experience
 
 ### Perks:
-- 100% flexible hours, location, and (mostly) asynchronous work
+- Flexible hours, location, and (mostly) asynchronous work
 - Regular feedback from our team
 - Work directly with our team of Editors and Technical Content Specialists
 - Help shape the direction of a quickly-growing small business
