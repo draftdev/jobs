@@ -32,7 +32,7 @@ Sound interesting? Keep reading to learn more!
 ### Skills and Experience We're Looking For
 Some of these are hard requirements, some are suggestions, and others are just a bonus. If you have at least the minimum required skills, we encourage you to apply!
 
-- (Requirement) 4+ years keyword research, SEO, and marketing experience
+- (Requirement) 3+ years keyword research, SEO, and marketing experience
 - (Requirement) Strong English writing and speaking skills
 - Experience working with highly technical terminology (all our clients are developer tools or APIs)
 - Organized approach to content marketing research using tools like ahrefs and BuzzSumo
