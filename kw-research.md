@@ -9,7 +9,7 @@ Sound interesting? Keep reading to learn more!
 
 #### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shryqAkoyZELVta6H)
 
-![Job: Keyword and Community Research Specialist at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
+![Job: Keyword and Community Research Specialist at Draft.dev](https://i.imgur.com/LVVBkiV.jpg)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content production company focused on creating in-depth, technical content for developer tools startups. We work with software engineers from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of engineers, writers, marketers, editors, and designers.
