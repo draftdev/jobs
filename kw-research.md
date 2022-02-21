@@ -1,5 +1,5 @@
 # Keyword and Community Research Specialist at [Draft.dev](https://draft.dev/)
-> $40/hour, ~20 hour/week contract
+> $40-$50/hour, ~20 hour/week
 
 If you love learning about new cutting-edge tools, coming up with creative content ideas, and merging client goals with keyword opportunities, this is the role for you!
 
