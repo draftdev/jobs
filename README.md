@@ -5,7 +5,7 @@ Hey there 👋
 If you're reading this, I can only assume that you're interested in working for [Draft.dev](http://draft.dev/) or learning about the company. That's great! We're glad to see you.
 
 ## Open Roles
-- **[Community Manager](https://github.com/draftdev/jobs/blob/main/community-manager.md) ($83,200 per year, full-time)** - If you enjoy managing large communities, communicating with freelancers, and being an encouraging and knowledgeable resource for technical writers, check out this role.
+- **[Community Manager](https://github.com/draftdev/jobs/blob/main/community-manager.md) ($83,200 per year, full-time)** - If you want to help grow a community of freelancers and serve as an encouraging and knowledgeable resource for technical writers, check out this role.
 - **[Technical Content Reviewer](https://github.com/draftdev/jobs/blob/main/techreviewer.md) ($50 per hour, part-time)** - If you have a background in engineering and want a side gig where you're paid to read about new technology and help other developers improve, this is the role for you.
 - **[Developmental Editor](https://github.com/draftdev/jobs/blob/main/editor.md) ($50 per hour, full-time or part-time)** - We're always on the lookout for experienced developmental editors! Draft.dev's DEs set the tone for the finished article and see it through the entire editing process.
 - **[Copy Editor](https://github.com/draftdev/jobs/blob/main/copyeditor.md) ($35 per hour, part-time)** - We're always on the lookout for skilled copy editors! Draft.dev's copy editors ensure that every article has a final polish before our clients see them.
