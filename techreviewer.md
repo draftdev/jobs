@@ -41,6 +41,4 @@ You may need to read the documentation and learn how a new tool works. Rarely, y
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrjG2UG3HPdn2wSA)
-
-Questions? Email [kasper@draft.dev](mailto:kasper@draft.dev) for more information.
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr4XX0UqSKCGLjEP)
