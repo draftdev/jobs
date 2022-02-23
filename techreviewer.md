@@ -5,7 +5,7 @@ Have a background in engineering and want to get paid to read about new technolo
 
 If so, we've got a role for you!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr4XX0UqSKCGLjEP)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shriklroIAfMCnnIi)
 
 ![Job: Technical Reviewer at Draft.dev](https://draft.dev/learn/assets/posts/programmer.png)
 
@@ -41,4 +41,4 @@ You may need to read the documentation and learn how a new tool works. Rarely, y
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr4XX0UqSKCGLjEP)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shriklroIAfMCnnIi)

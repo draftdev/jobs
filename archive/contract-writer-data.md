@@ -5,7 +5,7 @@ Are you an authoritative writer with a background in big data, analytics, or mac
 
 If so, we've got a role for you!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrQvxFAjis4Wj24f)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrsDjEpe93eMNB8Q)
 
 ![Job: Contract Writer (Data Engineering/Analytics) at Draft.dev](https://draft.dev/learn/assets/posts/engineering-12.png)
 
@@ -33,6 +33,6 @@ If so, we've got a role for you!
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrQvxFAjis4Wj24f)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrsDjEpe93eMNB8Q)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.

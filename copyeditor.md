@@ -5,7 +5,7 @@ Are you a detail-oriented, experienced copy editor? Do you have experience editi
 
 We're looking for a copy editor to join our roster! Draft.dev has a robust editing process, from tech reviewers to developmental editors to copy editors, to ensure that our content reaches a high level of polish before we submit it to our clients. Our copy editors ensure that every article has a final polish before our clients see them.
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrIZn1T6KMJn4n3v)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrWKHnPjHg0xbYfQ)
 
 ![Job: Freelance Copy Editor at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
@@ -26,7 +26,7 @@ We're looking for a copy editor to join our roster! Draft.dev has a robust editi
 - Deliver reliably on deadlines
 - Be able to adhere easily to house style within a month
 - Comfortable in all-remote environment
-- Work directly with Draft.dev developmental editors and lead editor
+- Work directly with Draft.dev developmental editors and managing editor
 
 ### Perks:
 - Flexible hours, location, and (almost always) asynchronous work
@@ -34,12 +34,12 @@ We're looking for a copy editor to join our roster! Draft.dev has a robust editi
 - Help shape the direction of a quickly growing small business and help our freelance writers improve their skills
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shrIZn1T6KMJn4n3v). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
+1. [Submit your application](https://airtable.com/shrWKHnPjHg0xbYfQ). We apologize for the inconvenience, but we are only able to respond to applicants we plan to move forward with.
 2. Top applicants will be asked to complete a paid trial assignment.
 3. You'll join a 30-minute intro call to learn more about our process and team.
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrIZn1T6KMJn4n3v)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrWKHnPjHg0xbYfQ)
 
 Questions? Email [chris@draft.dev](mailto:chris@draft.dev) for more information.

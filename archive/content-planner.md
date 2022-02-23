@@ -5,7 +5,7 @@ Have a background in engineering or technical leadership and want to get paid to
 
 If so, we've got a role for you!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrjG2UG3HPdn2wSA)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shreWOFXya4ZDvHOw)
 
 ![Job: Technical Content Planner at Draft.dev](https://draft.dev/learn/assets/posts/programmer.png)
 
@@ -36,11 +36,10 @@ Sometimes you'll have to use your Googling skills to find similar articles for u
 ### Perks:
 - 100% flexible hours, location, and asynchronous work
 - Regular feedback from our team and clients
-- Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Help shape the direction of a quickly-growing small business
+- Help shape the direction of a quickly growing small business
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrjG2UG3HPdn2wSA)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shreWOFXya4ZDvHOw)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.

@@ -12,7 +12,7 @@ Sound interesting? Keep reading to learn more!
 ![Job: Technical Content Specialist at Draft.dev](https://draft.dev/learn/assets/posts/programmer.png)
 
 ## About the Company
-[Draft.dev](https://draft.dev/) is a content production company focused on creating in-depth, technical content for developer tools startups. We work with software engineers from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of engineers, writers, marketers, editors, and designers.
+[Draft.dev](https://draft.dev/) is a content production company focused on creating in-depth, technical content for developer tools startups. We work with software engineers from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly growing team of engineers, writers, marketers, editors, and designers.
 
 [Read more in our feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
@@ -44,9 +44,9 @@ Some of these are hard requirements, some are suggestions, and others are just a
 - 100% flexible hours, location, and (mostly) asynchronous work
 - Regular feedback from our team and clients
 - Work directly with a team of Technical Content Specialists
-- Help shape the direction of a quickly-growing small business
+- Help shape the direction of a quickly growing small business
 - Transparent hiring process, pay rate, and company insights
-- Hourly contract to start with the option to transition to salary and paid time off in 6-months
+- Hourly contract to start with the option to transition to salary and paid time off in 6 months
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shrhQ6GHzWT0AJN4h).

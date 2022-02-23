@@ -5,7 +5,7 @@ Are you an authoritative writer with a background building mobile apps in iOS an
 
 If so, we've got a role for you!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrr765BNHlpAzaX4)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrKxjj2s8f1lRNf6)
 
 ![Job: Contract Writer (Mobile) at Draft.dev](https://draft.dev/learn/assets/posts/engineering-12.png)
 
@@ -33,6 +33,6 @@ If so, we've got a role for you!
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrr765BNHlpAzaX4)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrKxjj2s8f1lRNf6)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.

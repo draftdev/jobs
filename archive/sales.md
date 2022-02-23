@@ -5,7 +5,7 @@ If you're a stellar communicator with an interest in technology, this role could
 
 We've grown from 0-40 clients in just a year and are on track to double again in the next six months. As our first Account Executive, you'll oversee the entire sales process from handling inbound interest, to researching leads, to running sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrUc4UbBwR9odvsl)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr5pfbDPGLrJycFH)
 
 ![Job: Account Executive at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
 
@@ -33,7 +33,7 @@ We've grown from 0-40 clients in just a year and are on track to double again in
 - Native-level English writing and speaking skills
 - Adhere to and improve existing sales processes
 
-### Preferred Qualifications: 
+### Preferred Qualifications:
 - Past software development or industry experience
 - Experience with Apollo and Pipedrive
 - Previous experience building sales processes
@@ -43,10 +43,10 @@ We've grown from 0-40 clients in just a year and are on track to double again in
 - $52,000/year base pay rate with on-target earnings of $105,000+ annually
 - 10% commission on new sales (average deal size of $15,000) with no cap
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Help shape the direction of a quickly-growing small business and sales team
+- Help shape the direction of a quickly growing small business and sales team
 
 ## Hiring Process:
-1. [Submit your application](https://airtable.com/shrUc4UbBwR9odvsl).
+1. [Submit your application](https://airtable.com/shr5pfbDPGLrJycFH).
 2. You'll complete an asynchronous role playing assignment via email (will just take a few minutes).
 3. You'll join a 30-minute phone call to learn about your experience and the role.
 4. You'll complete a 1-hour phone-based role playing session.
