@@ -7,7 +7,7 @@ You'll work alongside our team of Technical Content Specialists (all current or 
 
 Sound interesting? Keep reading to learn more!
 
-#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrhQ6GHzWT0AJN4h)
+#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr76gx2IqaLklMcW)
 
 ![Job: Technical Content Specialist at Draft.dev](https://draft.dev/learn/assets/posts/programmer.png)
 
@@ -36,7 +36,7 @@ Some of these are hard requirements, some are suggestions, and others are just a
 - (Requirement) Previous technical writing or editing experience
 - Knack for giving helpful feedback to other engineers
 - Interest in researching and learning new software engineering topics
-- Experience working in a fully-distributed team
+- Experience working in a fully distributed team
 - (Nice-to-Have) Leadership interest or experience
 - (Nice-to-Have) Data engineering, data science, or machine learning experience
 
@@ -57,6 +57,6 @@ Some of these are hard requirements, some are suggestions, and others are just a
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrhQ6GHzWT0AJN4h)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr76gx2IqaLklMcW)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.

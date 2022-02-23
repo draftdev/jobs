@@ -7,7 +7,7 @@ As our Keyword and Community Research Specialist at Draft.dev, you'll work with 
 
 Sound interesting? Keep reading to learn more!
 
-#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shryqAkoyZELVta6H)
+#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrVyQJcBtRQN8tom)
 
 ![Job: Keyword and Community Research Specialist at Draft.dev](https://i.imgur.com/LVVBkiV.jpg)
 
@@ -46,7 +46,7 @@ Some of these are hard requirements, some are suggestions, and others are just a
 - Help shape the direction of a quickly-growing small business
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shryqAkoyZELVta6H).
+1. [Submit your application](https://airtable.com/shrVyQJcBtRQN8tom).
 2. Complete a short trial task over email.
 3. We'll reach out to schedule a Zoom interview.
 6. We'll get back to you with our decision in <2 weeks.
