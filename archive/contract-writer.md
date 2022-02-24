@@ -5,7 +5,7 @@ Are you an authoritative writer with a background in journalism, English, and so
 
 If so, we've got a role for you!
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBouoDde7GyLtug)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBgpjvfhLMV1lH9)
 
 ![Job: Contract Writer (Software Development Tools) at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
@@ -43,11 +43,10 @@ You may also have to work with developers or source code samples occasionally. Y
 - Competitive pay rate, $0.33-$0.45 per word (depending on experience)
 - Regular feedback from our editor and subject matter experts
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Help shape the direction of a quickly-growing small business
+- Help shape the direction of a quickly growing small business
 
 ## Ready to Apply?
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBouoDde7GyLtug)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrBgpjvfhLMV1lH9)
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
-

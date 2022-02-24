@@ -5,12 +5,12 @@ If you're a stellar communicator who can organize and manage lots of simultaneou
 
 *Note: This is not a sales role. You will primarily be maintaining and improving relationships with existing clients, but it will require significant face-time with clients and making renewals and upsells.*
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrVtYBtA1L4YkyzS)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrsDQtF6YGab4kou)
 
 ![Job: Account Manager at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
 ## About the Company
-[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of technologists, writers, marketers, editors, and designers.
+[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly growing team of technologists, writers, marketers, editors, and designers.
 
 [Read more in our feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
@@ -36,10 +36,10 @@ If you're a stellar communicator who can organize and manage lots of simultaneou
 - Flexible hours, location, and mostly asynchronous work
 - $40/hour pay rate with opportunity to move to equivalent salary ($83,200/year) and paid time off after 6 months
 - Work directly with a team of experienced Account Managers and [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Help shape the direction of a quickly-growing small business
+- Help shape the direction of a quickly growing small business
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shrVtYBtA1L4YkyzS)
+1. [Submit your application](https://airtable.com/shrsDQtF6YGab4kou)
 2. You'll complete a role playing assignment via email (will just take a few minutes).
 3. You'll join a 30-minute Zoom call to talk about your experience and answer questions about the role.
 4. You'll complete a 2-hour *paid* mock renewal exercise.

@@ -10,7 +10,7 @@ As a Sales Development Representative at Draft.dev, you'll manage outreach to ne
 ![Job: SDR at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
 
 ## About the Company
-[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of technologists, writers, marketers, editors, and designers.
+[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly growing team of technologists, writers, marketers, editors, and designers.
 
 We've gone from 0 to 40 clients in just a year and are set to double again in the next six months, so this is a very exciting time to join!
 
@@ -44,7 +44,7 @@ We've gone from 0 to 40 clients in just a year and are set to double again in th
 - $21/hour base pay rate with on-target earnings of $72,000 annually
 - $150 bonus for each meeting set, with no max (13/month target)
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Help shape the direction of a quickly-growing small business (we've already 8x-ed revenue this year and will likely double again in the next 6 months)
+- Help shape the direction of a quickly growing small business (we've already 8x-ed revenue this year and will likely double again in the next 6 months)
 - Opportunity to advance to a commission-based Account Executive role and lead sales calls in 3-6 months
 
 ## Hiring Process

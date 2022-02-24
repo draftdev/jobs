@@ -7,12 +7,12 @@ As our Keyword and Community Research Specialist at Draft.dev, you'll work with 
 
 Sound interesting? Keep reading to learn more!
 
-#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shryqAkoyZELVta6H)
+#### [OR SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrVyQJcBtRQN8tom)
 
 ![Job: Keyword and Community Research Specialist at Draft.dev](https://i.imgur.com/LVVBkiV.jpg)
 
 ## About the Company
-[Draft.dev](https://draft.dev/) is a content production company focused on creating in-depth, technical content for developer tools startups. We work with software engineers from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly-growing team of engineers, writers, marketers, editors, and designers.
+[Draft.dev](https://draft.dev/) is a content production company focused on creating in-depth, technical content for developer tools startups. We work with software engineers from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly growing team of engineers, writers, marketers, editors, and designers.
 
 [Read more in our feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
@@ -43,10 +43,10 @@ Some of these are hard requirements, some are suggestions, and others are just a
 - Flexible hours, location, and (mostly) asynchronous work
 - Regular feedback from our team
 - Work directly with our Account Managers, clients, and CEO
-- Help shape the direction of a quickly-growing small business
+- Help shape the direction of a quickly growing small business
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shryqAkoyZELVta6H).
+1. [Submit your application](https://airtable.com/shrVyQJcBtRQN8tom).
 2. Complete a short trial task over email.
 3. We'll reach out to schedule a Zoom interview.
 6. We'll get back to you with our decision in <2 weeks.
