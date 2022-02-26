@@ -1,5 +1,5 @@
 # Keyword and Community Research Specialist at [Draft.dev](https://draft.dev/)
-> $40-$50/hour, ~20 hour/week
+> $50/hour, 10-20 hours/week
 
 If you love learning about new cutting-edge tools, coming up with creative content ideas, and merging client goals with keyword opportunities, this is the role for you!
 
@@ -47,9 +47,9 @@ Some of these are hard requirements, some are suggestions, and others are just a
 
 ## Hiring Process
 1. [Submit your application](https://airtable.com/shrVyQJcBtRQN8tom).
-2. Complete a short trial task over email.
-3. We'll reach out to schedule a Zoom interview.
-6. We'll get back to you with our decision in <2 weeks.
+3. We'll reach out to schedule a Zoom meeting with the top candidates.
+4. Complete a short paid trial assignment.
+5. We'll get back to you with our decision in <2 weeks.
 
 ## Ready to Apply?
 
