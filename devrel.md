@@ -36,11 +36,11 @@ Some of these are hard requirements, some are suggestions, and others are just a
 
 - (Requirement) Mid-level software engineering skills with full-stack experience across a range of technologies
 - (Requirement) Strong English writing skills
-- (Requirement) Previous technical writing or editing experience
+- (Requirement) Leadership experience
 - Knack for giving helpful feedback to other engineers
 - Interest in researching and learning new software engineering topics
 - Experience working in a fully distributed team
-- (Nice-to-Have) Leadership experience
+- (Nice-to-Have) Previous technical writing or editing experience
 - (Nice-to-Have) Data engineering, data science, or machine-learning experience
 
 ### Perks:
