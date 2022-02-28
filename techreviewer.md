@@ -36,7 +36,7 @@ You may need to read the documentation and learn how a new tool works. Rarely, y
 ### Perks:
 - 100% flexible hours, location, and asynchronous work
 - Regular feedback from our team and clients
-- Work directly with [Draft.dev's content lead](https://www.linkedin.com/in/ksiig/)
+- Work directly with Draft.dev's technical content lead
 - Help shape the direction of a quickly growing small business
 
 ## Ready to Apply?
