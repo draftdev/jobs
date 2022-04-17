@@ -1,5 +1,5 @@
 # Executive Blog Ghostwriter (Developer Relations and Marketing) at [Draft.dev](https://draft.dev/)
-> $3,200 per month, part-time
+> $3,200 per month ($.40/word), part-time
 
 Are you an experienced executive ghostwriter with a background in journalism and marketing? Do you have experience interviewing thought leaders in the tech world? Want ongoing one-on-one work with a CEO who understands the value of strong writing?
 
