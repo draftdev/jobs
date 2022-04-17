@@ -1,5 +1,5 @@
 # Executive Blog Ghostwriter (Developer Relations and Marketing) at [Draft.dev](https://draft.dev/)
-> $4,000 per month, part-time
+> $3,200 per month, part-time
 
 Are you an experienced executive ghostwriter with a background in journalism and marketing? Do you have experience interviewing thought leaders in the tech world? Want ongoing one-on-one work with a CEO who understands the value of strong writing?
 
@@ -34,13 +34,13 @@ Here are some examples of the types of articles you'll be responsible for writin
 - [How to Write Better Technical Content](https://draft.dev/learn/technical-content)
 
 ### Expectations:
-- 4x ~2000-word blog posts per month
+- Output of 8000-words (after editing) per month, mostly ~2000-word blog posts
 - Consistent 2-3 day turnarounds on edits (usually 1-2 rounds per article)
-- Weekly planning meeting with CEO to talk about upcoming articles, line up sources, and ask questions
+- Bi-weekly planning meeting with CEO to talk about upcoming articles, line up sources, and ask questions
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
-- Competitive pay rate, $1000 per ~2000-word post
+- Competitive pay rate: $0.40 per word
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Learn about and make contacts in a quickly-growing niche industry (developer marketing)
 
