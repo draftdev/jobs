@@ -5,6 +5,7 @@ Hey there 👋
 If you're reading this, I can only assume that you're interested in working for [Draft.dev](http://draft.dev/) or learning about the company. That's great! We're glad to see you.
 
 ## Open Roles
+- **[Account Manager](/account-manager.md) ($83,200/year, full-time contract)** - If you're a stellar communicator who can organize and manage lots of simultaneous projects and conversations, this might be the perfect role for you.
 - **[Executive Ghostwriter](https://github.com/draftdev/jobs/blob/main/ghostwriter.md) ($3200 per month, part-time)** - If you're an experienced ghostwriter with a background in journalism, marketing, and technology this could be a great opportunity for ongoing work.
 - **[Technical Content Reviewer](https://github.com/draftdev/jobs/blob/main/techreviewer.md) ($50 per hour, part-time)** - If you have a background in engineering and want a side gig where you're paid to read about new technology and help other developers improve, this is the role for you.
 - **[Developmental Editor](https://github.com/draftdev/jobs/blob/main/editor.md) ($50 per hour, full-time or part-time)** - We're always on the lookout for experienced developmental editors! Draft.dev's DEs set the tone for the finished article and see it through the entire editing process.
