@@ -35,7 +35,7 @@ If you're a stellar communicator who can organize and manage lots of simultaneou
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
 - $40/hour pay rate with opportunity to move to equivalent salary ($83,200/year) and paid time off after 6 months
-- Work directly with a team of experienced Account Managers and [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
+- Work directly with a team of experienced Account Managers
 - Help shape the direction of a quickly growing small business
 
 ## Hiring Process
