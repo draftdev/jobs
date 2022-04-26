@@ -22,7 +22,7 @@ We're looking for a freelance developmental editor to join our roster. Draft.dev
 ### Expectations:
 - 3+ years of professional editing and/or writing experience in technical or comparably complex subject matter
 - Proficient in developmental editing and/or line editing
-- Part-time (10–20 hours per week) or full-time (hourly contract for first six months, then salaried) available
+- Part-time (10–20 hours per week) or full-time (40-hour/week contract) available
 - Deliver on deadlines
 - Adhere to editing processes and style guides
 - Communicate as needed and take instruction from a lead editor
