@@ -1,7 +1,7 @@
-# Executive Blog Ghostwriter (Developer Relations and Marketing) at [Draft.dev](https://draft.dev/)
+# Executive Blog Ghostwriter (Technology, Business, and Marketing) at [Draft.dev](https://draft.dev/)
 > ~$2,400 per month, part-time
 
-Are you an experienced executive ghostwriter with a background in journalism and marketing? Do you have experience interviewing thought leaders in the tech world? Want ongoing one-on-one work with a CEO who understands the value of strong writing?
+Are you an experienced executive ghostwriter with a background in journalism and marketing? Do you have experience interviewing thought leaders in the tech world? Want ongoing one-on-one work with a CEO who understands the value of high-quality writing?
 
 If so, we've got a role for you!
 
@@ -42,7 +42,7 @@ Here are some examples of the types of articles you'll be responsible for writin
 - Flexible hours, location, and mostly asynchronous work
 - Competitive pay rate: $0.40 per word
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
-- Learn about and make contacts in a quickly-growing niche industry (developer marketing)
+- Learn about and make contacts in a quickly-growing niche industry
 
 ## Ready to Apply?
 
