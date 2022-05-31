@@ -41,7 +41,7 @@ We've grown from 0-90 clients in just two years and are on track to continue thi
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work (no travel required)
 - $52,000/year base pay rate with on-target earnings of $105,000+ annually
-- 10% commission on new sales (average deal size of $15,000) with no cap
+- 10% commission on new sales (average deal size of $20,000) with no cap
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly growing small business and sales team
 
