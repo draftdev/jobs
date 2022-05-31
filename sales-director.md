@@ -34,7 +34,8 @@ As our Sales and Marketing Director, you'll be responsible for managing our mark
 - Work availability in US or EU time zones
 
 ### Preferred Qualifications:
-- Past agency or developer relations industry experience
+- Past developer relations and marketing industry experience
+- Past agency experience
 - Experience with Pipedrive
 - Previous experience building sales teams at similar productized services/agencies
 
