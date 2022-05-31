@@ -23,6 +23,7 @@ As our Sales and Marketing Director, you'll be responsible for managing our mark
 - Build relationships with potential clients, partners, and industry experts to drive awareness
 - Sit in on sales calls to help improve our processes
 - Hire, train, and grow our marketing and sales teams
+- Help develop new service offerings to increase revenue opportunities
 - Contribute to executive-level business decisions with the CEO and leadership team
 
 ### Skills and Qualifications:
