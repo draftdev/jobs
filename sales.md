@@ -3,27 +3,27 @@
 
 If you're a stellar communicator with an interest in technology, this role could be a great way to advance your sales career.
 
-We've grown from 0-40 clients in just a year and are on track to double again in the next six months. As our first Account Executive, you'll oversee the entire sales process from handling inbound interest, to researching leads, to running sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside the Founder/CEO to help set sales processes and standards.
+We've grown from 0-90 clients in just two years and are on track to continue this growth rate into 2023. As our second Account Executive, you'll help oversee the sales process from handling inbound interest, to researching leads, to running sales calls, and sending follow ups to keep potential clients moving through our pipeline. You'll work alongside our other Account Executive and the company's founder to improve processes and nurture our pipeline.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr5pfbDPGLrJycFH)
 
 ![Job: Account Executive at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
 
 ## About the Company
-[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're small, but have grown revenue 8x in 2021 already and expect to double again in the next six months.
+[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're small, but are in a niche and quickly-growing market.
 
 [Read more in our recent feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
-**And now we're looking for someone to join as our first Account Executive!**
+**And now we're looking for someone to join as our second Account Executive!**
 
 ### Day-to-Day Responsibilities:
 - Understand our prospects and ideal clients at a high level
 - Perform prospecting activities to drive new business growth
 - Build relationships and identify key buying signals to move prospects through the sales pipeline
 - Prompt and clear communication with prospects and Draft.dev team members in excellent written English
-- Create and run cold email and Linkedin campaigns using modern tools (we use Apollo and Pipedrive)
+- Create and run cold email and Linkedin outreach
 - Qualify and research inbound leads
-- Initially, you'll take notes in sales calls but within 1-3 months, you'll be leading calls independently
+- Initially, you'll take notes in sales calls but within 3 months, you'll be leading calls independently
 - Send follow up emails and campaigns to prospects after calls
 - Weekly sales check-in meetings
 - Holding sales calls in US and EU time zones
