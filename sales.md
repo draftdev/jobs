@@ -30,19 +30,18 @@ We've grown from 0-90 clients in just two years and are on track to continue thi
 
 ### Skills and Qualifications:
 - 3+ years of experience driving full-cycle sales opportunities
-- Native-level English writing and speaking skills
+- Native English writing and speaking skills
 - Adhere to and improve existing sales processes
 
 ### Preferred Qualifications:
 - Past software development or industry experience
-- Experience with Apollo and Pipedrive
-- Previous experience building sales processes
+- Experience with Pipedrive, Linkedin Sales Navigator, and Crunchbase
+- Previous experience building and improving sales processes
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work (no travel required)
 - $52,000/year base pay rate with on-target earnings of $105,000+ annually
 - 10% commission on new sales (average deal size of $20,000) with no cap
-- Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly growing small business and sales team
 
 ## Hiring Process:
