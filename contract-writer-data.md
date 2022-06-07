@@ -35,4 +35,4 @@ If so, we've got a role for you!
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrsDjEpe93eMNB8Q)
 
-Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
+Questions? Email [jakkie@draft.dev](mailto:jakkie@draft.dev) for more information.
