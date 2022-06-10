@@ -47,7 +47,7 @@ Rarely, you may be asked if you are able to complete a revision if for some reas
 - Work directly with Draft.dev's technical lead
 - Help shape the direction of a quickly growing small business
 
-### Preference given to:
+### Preference given to people with SOME of these skills:
 - Data Engineering / SQL / Streaming Data
 - Data Science / AI / ML / DL / NLP / MLOps
 - Team Leadership / Agile Methodologies (Scrum / Kanban)
