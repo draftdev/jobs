@@ -1,4 +1,4 @@
-# Contract Writer (Data Engineering/Data Sciene/Machine Learning) at [Draft.dev](https://draft.dev/)
+# Contract Writer (Data Engineering/Data Science/Machine Learning) at [Draft.dev](https://draft.dev/)
 > $2000+ per month
 
 Are you an authoritative writer with a background in big data, analytics, or machine learning? Are you interested in sharing your knowledge about data engineering or data science in a way that's approachable and creative? Do you love learning new technologies and helping others learn them too?
@@ -7,7 +7,7 @@ If so, we've got a role for you!
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrsDjEpe93eMNB8Q)
 
-![Job: Contract Writer (Data Engineering/Data Sciene/Machine Learning) at Draft.dev](https://draft.dev/learn/assets/posts/engineering-12.png)
+![Job: Contract Writer (Data Engineering/Data Science/Machine Learning) at Draft.dev](https://draft.dev/learn/assets/posts/engineering-12.png)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books that help engineers learn modern best practices. Founded in 2020, we're a small but quickly growing team of technologists, writers, editors, and designers.
