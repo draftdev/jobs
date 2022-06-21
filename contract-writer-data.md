@@ -12,7 +12,7 @@ If so, we've got a role for you!
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books that help engineers learn modern best practices. Founded in 2020, we're a small but quickly growing team of technologists, writers, editors, and designers.
 
-**And now we're looking for someone to join as a regular cloud native contract writer.**
+**And now we're looking for someone to join as a contract writer.**
 
 ### We'd Like Someone Who Can:
 - Understand complex technical topics like data visualization, dbt, data warehouses, and data transformations at scale
