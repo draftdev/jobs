@@ -1,4 +1,4 @@
-# Contract Writer (DevSecOps) at [Draft.dev](https://draft.dev/)
+# Contract Writer (SRE) at [Draft.dev](https://draft.dev/)
 > $2000+ per month
 
 Are you an authoritative writer with a background in Site Reliability Engineering? Are you interested in sharing your knowledge about infrastructure in a way that's approachable and creative? Do you love learning new technologies and helping others learn them too?
