@@ -5,7 +5,7 @@ If you're an experienced growth team leader with an interest in technology, this
 
 As our Sales and Marketing Director, you'll be responsible for managing our marketing and sales teams. You'll help improve our marketing funnel, test new marketing channels, facilitate more referrals and deepen client relationships, improve our sales processes, and contribute to big-picture business decisions as part of the company leadership team.
 
-#### [SUBMIT YOUR APPLICATION TODAY](#)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr1BLe1LlwCs4B2H)
 
 ![Job: Sales and Marketing Director at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
 
@@ -46,9 +46,9 @@ As our Sales and Marketing Director, you'll be responsible for managing our mark
 - Help shape the direction of a quickly growing small business
 
 ## Hiring Process:
-1. [Submit your application](#).
-2. You'll complete a quick assignment via email (will just take a few minutes).
-3. You'll join a 45-minute phone call to learn about your experience and the role.
-4. You'll complete a paid take-home assignment with a final presentation.
+1. [Submit your application](https://airtable.com/shr1BLe1LlwCs4B2H).
+2. Top candidates will join a 45-minute screening call to learn about your experience and the role.
+3. You'll meet with the other directors to learn about the leadership structure and who you'll work with regularly.
+4. You'll complete a paid trial assignment with a final presentation to our sales and marketing team.
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
