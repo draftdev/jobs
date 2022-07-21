@@ -1,5 +1,5 @@
 # Sales and Marketing Director at [Draft.dev](https://draft.dev/)
-> $150,000 on target earnings, full-time
+> $250,000 on target earnings, full-time
 
 If you're an experienced growth team leader with an interest in technology, this position will be a great opportunity to help build a quickly-growing organization.
 
@@ -14,11 +14,11 @@ As our Sales and Marketing Director, you'll be responsible for managing our mark
 
 [Read more in our feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
-**And now we're looking for someone to join as our first Sales and Marketing Director!**
+**We're profitable and bootstrapped in a highly in-demand niche, so now is the perfect time to come in and help grow a high-potential service business!**
 
 ### Day-to-Day Responsibilities:
 - Oversee existing marketing efforts to drive traffic and calls
-- Maintain our inbound marketing strategy (content, referrals, and social media) to maximize the sales pipeline
+- Maintain our inbound marketing strategy (content, referrals, and social media) and team to maximize the sales pipeline
 - Run tests on new growth tactics (outbound, paid ads, webinars, etc.)
 - Build relationships with potential clients, partners, and industry experts to drive awareness
 - Sit in on sales calls to help improve our processes
@@ -28,27 +28,25 @@ As our Sales and Marketing Director, you'll be responsible for managing our mark
 
 ### Skills and Qualifications:
 - 8+ years of experience in sales and marketing roles
-- 2+ years of leadership experience
+- 3+ years of leadership experience
 - Familiarity with high-touch, relationship-based sales
 - Native-level English writing and speaking skills
 - Work availability in US or EU time zones
 
 ### Preferred Qualifications:
 - Past developer relations and marketing industry experience
-- Past agency experience
-- Experience with Pipedrive
-- Previous experience building sales teams at similar productized services/agencies
+- Previous experience building sales teams at productized services or agencies
 
 ### Perks:
-- Flexible hours, location, and mostly asynchronous work (no travel required)
-- $100,000/year base pay rate with on target earnings of $150,000/year
+- Flexible hours, location, and mostly asynchronous work (no travel required, although if you want to make events part of our strategy, we have budget for it)
+- $150,000/year base pay rate with on target earnings of $100,000/year
 - Report directly to [Draft.dev's CEO and Founder](https://www.linkedin.com/in/karllhughes)
 - Help shape the direction of a quickly growing small business
 
 ## Hiring Process:
 1. [Submit your application](https://airtable.com/shr1BLe1LlwCs4B2H).
-2. Top candidates will join a 45-minute screening call to learn about your experience and the role.
-3. You'll meet with the other directors to learn about the leadership structure and who you'll work with regularly.
-4. You'll complete a paid trial assignment with a final presentation to our sales and marketing team.
+2. Top candidates will join a 30-minute screening call to learn about your experience and the role.
+3. Next, you'll meet with the other directors to learn about the leadership structure and who you'll work with regularly.
+4. Finally, you'll complete a paid trial assignment with a final presentation to our sales and marketing team.
 
 Questions? Email [karl@draft.dev](mailto:karl@draft.dev) for more information.
