@@ -1,9 +1,9 @@
 # Sales and Marketing Director at [Draft.dev](https://draft.dev/)
 > $250,000 on target earnings, full-time
 
-If you're an experienced growth team leader with an interest in technology, this position will be a great opportunity to help build a quickly-growing organization.
+If you're an experienced sales and marketing team leader, this position is a fantastic opportunity to help scale a quickly-growing service business.
 
-As our Sales and Marketing Director, you'll be responsible for managing our marketing and sales teams. You'll help improve our marketing funnel, test new marketing channels, facilitate more referrals and deepen client relationships, improve our sales processes, and contribute to big-picture business decisions as part of the company leadership team.
+As our Sales and Marketing Director, you'll get the opportunity to guide the growth and impact of sales and marketing operations at Draft.dev and be responsible for managing our budding marketing and sales teams. You'll run day-to-day sales operations, oversee inbound and outbound marketing campaigns, and drive lead generation with the support of your team. Our ideal candidate is a true sales and marketing hybrid, experienced in launching and optimizing digital campaigns and coaching our sales team to perfect their pitch.
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shr1BLe1LlwCs4B2H)
 
