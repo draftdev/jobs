@@ -17,14 +17,21 @@ As our Sales and Marketing Director, you'll get the opportunity to guide the gro
 **We're profitable and bootstrapped in a highly in-demand niche, so now is the perfect time to come in and help grow a high-potential service business!**
 
 ### Day-to-Day Responsibilities:
-- Oversee existing marketing efforts to drive traffic and calls
-- Maintain our inbound marketing strategy (content, referrals, and social media) and team to maximize the sales pipeline
-- Run tests on new growth tactics (outbound, paid ads, webinars, etc.)
-- Build relationships with potential clients, partners, and industry experts to drive awareness
-- Sit in on sales calls to help improve our processes
+
+#### Sales
 - Hire, train, and grow our marketing and sales teams
-- Help develop new service offerings to increase revenue opportunities
+- Establish key performance indicators to track sales and drive process improvements
+- Build relationships with high-value potential clients, partners, and industry experts
+- Provide hands-on training to sales team members through call shadowing
 - Contribute to executive-level business decisions with the CEO and leadership team
+
+#### Marketing
+- Oversee existing marketing efforts to generate leads and drive awareness
+- Create success metrics to ensure growth in lead generation and promote cross-department transparency
+- Launch, maintain, and optimize our inbound (content, landing pages, referrals, social media) and outbound (paid ads, webinars, email) marketing campaigns
+- Manage website performance & SEO maintenance to make on-page and technical optimizations that increase conversions
+- Lead our content team to create engaging and impactful content to convert new leads
+- Help develop new service offerings to increase revenue opportunities
 
 ### Skills and Qualifications:
 - 8+ years of experience in sales and marketing roles
