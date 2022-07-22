@@ -37,6 +37,10 @@ As our Sales and Marketing Director, you'll get the opportunity to guide the gro
 - 8+ years of experience in sales and marketing roles
 - 3+ years of leadership experience
 - Familiarity with high-touch, relationship-based sales
+- Prior experience developing key performance indicators, sales processes, and lead generation
+- Strong analytical skills: the ability to gather, analyze, synthesize, summarize, and present data
+- Experience with Google Adwords and Google Analytics
+- Advanced SEO knowledge, including keyword research, competitive analysis, link building, on-page, and technical best practices
 - Native-level English writing and speaking skills
 - Work availability in US or EU time zones
 
