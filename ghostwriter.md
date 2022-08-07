@@ -38,7 +38,7 @@ Here are some examples of the types of articles you'll be responsible for writin
 
 ### Perks:
 - Flexible hours, location, and mostly asynchronous work
-- Competitive pay rate: $0.50 per word
+- Competitive pay rate: $0.50 - $0.75 per word, depending on experience
 - Work directly with [Draft.dev's founder](https://www.linkedin.com/in/karllhughes)
 - Learn about and make contacts in a quickly-growing niche industry
 
