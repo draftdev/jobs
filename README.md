@@ -6,6 +6,8 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 - **[Freelance Technical Writer](https://draft.dev/write) ($315+ per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want -- no monthly minimums.
+- **[Freelance Technical Writer -- Mobile Product Management](https://github.com/draftdev/jobs/blob/main/writer-mobile.md) ($315+ per blog post)** - Do you have a background building mobile apps in iOS and Android? Perhaps you have experience in mobile product management? We've got a writing opportunity for you!
+- **[Freelance Technical Writer -- Golang](https://github.com/draftdev/jobs/blob/main/writer-golang.md) ($315+ per blog post)** - Are you an authoritative writer with a background in Go? Ever developed an operating system with it or used it for machine learning? Do you love experimenting and tinkering with tech in unusual use cases? We've got a writing opportunity for you!
 
 ## About Draft.dev
 [Draft.dev](http://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, editors, and designers.
