@@ -1,9 +1,9 @@
 # Freelance Writer (Augmented Reality) at [Draft.dev](https://draft.dev/)
 > $315 per ~1500-word article
 
-Are you a developer with a background in augmented reality? Are you interested in sharing your knowledge about infrastructure in a way that's approachable and creative? Do you love learning new technologies and helping others learn them too?
+Are you a developer with a background in augmented reality? Have experience with UI/UX in the space? Do you love sharing your knowledge with others and either write or are interested in improving your writing?
 
-If so, we've got a role for you!
+If so, we've got an opportunity for you!
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://draft.dev/write)
 
@@ -14,8 +14,8 @@ If so, we've got a role for you!
 
 **And now we're specifically looking for writers with experience in augmented reality development.**
 
-### We'd Like Someone Who Can:
-- Understand infrastructure and is passionate about making it as reliable and easy to maintain as possible
+### We'd Like Someone Who Has:
+- Experience with smart glasses/wearable interfaces; Snapdragon Spaces; UI/UX in the AR space
 - Perform detailed research on cutting edge topics and services
 - Write with a genuine, persuasive, and authoritative style
 - Consistently deliver high-quality written work on deadline with a positive attitude and learning mindset
