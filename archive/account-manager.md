@@ -10,7 +10,7 @@ If you're a stellar communicator who can organize and manage lots of simultaneou
 ![Job: Account Manager at Draft.dev](https://draft.dev/learn/assets/posts/img_0990.png)
 
 ## About the Company
-[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly growing team of technologists, writers, marketers, editors, and designers.
+[Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, and editors.
 
 [Read more in our feature on TechCrunch](https://techcrunch.com/2021/07/29/draft-dev-ceo-karl-hughes-on-the-importance-of-using-experts-in-developer-marketing/)
 
