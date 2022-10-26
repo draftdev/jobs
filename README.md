@@ -12,7 +12,7 @@ If you're reading this, I can only assume that you're interested in working for 
 - **[Freelance Technical Writer -- Augmented Reality](https://github.com/draftdev/jobs/blob/main/writer-augmented-reality.md) ($315+ per blog post)** - Are you a developer with a background in augmented reality? Have experience with UI/UX in the space? We've got a writing opportunity for you!
 
 ## About Draft.dev
-[Draft.dev](http://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, editors, and designers.
+[Draft.dev](http://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology companies. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, and editors.
 
 We strive to improve inclusivity and diversity in tech. Our writers, clients, and readers come from a wide variety of backgrounds and countries. We believe our staff should reflect this diversity as well. 🌏 ⚧ 🌈
 
