@@ -7,9 +7,7 @@ As a Sales Development Representative at Draft.dev, you'll help us generate high
 
 Unlike traditional SDR roles that rely on high-volume cold outreach, this position is focused on quality over quantity. You'll be targeting strategic, high-value prospects with personalized messaging tailored to their roles, challenges, and industry trends. Your goal is to initiate meaningful conversations—not just book meetings—by providing useful insights and positioning our solution as valuable and relevant. Through thoughtful engagement and timely follow-ups, you’ll help ensure we stay top of mind with decision-makers so that when they’re ready to evaluate a partner, we’re the first call they make.
 
-#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/shrhrOiSuBSYIYSZa)
-
-![Job: SDR at Draft.dev](https://draft.dev/learn/assets/posts/promotion.png)
+#### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/appyjKskLy3SrrlTg/shrV9kV3QSSz1Q4yi)
 
 ## About the Company
 [Draft.dev](https://draft.dev/) is a content marketing agency focused on creating in-depth, technical content for growing technology startups. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small, but quickly growing team of technologists, writers, marketers, editors, and designers.
@@ -62,7 +60,7 @@ Unlike traditional SDR roles that rely on high-volume cold outreach, this positi
 - **Target Prospects**: C-suite, VPs, directors, and heads of departments in Marketing or Developer Relations. This includes new prospects and different product lines at existing large clients.
 
 ## Hiring Process
-1. [Submit your application](https://airtable.com/shrhrOiSuBSYIYSZa)
+1. [Submit your application](https://airtable.com/appyjKskLy3SrrlTg/shrV9kV3QSSz1Q4yi)
 2. You'll complete a role playing assignment via email (will just take a few minutes).
 3. You'll join a 30-minute phone interview to learn about your experience and the role.
 4. You'll complete a *paid* 2-hour sales planning project.
