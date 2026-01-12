@@ -5,8 +5,6 @@ Draft.dev is hiring a **Client-Facing Content Strategist** to lead growth strate
 
 #### [SUBMIT YOUR APPLICATION TODAY](https://airtable.com/appyjKskLy3SrrlTg/shriVla1QSRdn2YQr)
 
-![Job: Content Strategist at Draft.dev](https://draft.dev/learn/assets/posts/programmer.png)
-
 ## About the Company
 [Draft.dev](https://draft.dev/) is a technical content marketing agency that helps B2B software companies build predictable growth engines through high-quality, developer-focused content. Our clients are typically selling software and tools to developers, data professionals, or technical decision-makers. We work with companies of all size, from Series-A stage startups to some of the biggest enterprises in the industry (Docker, Jetbrains, Cloudflare).
 Draft.dev’s specialty is combining specialized technical knowledge with marketing best practices, individual research, creative distribution, and data-driven reporting, so content doesn’t just get published, it drives real business outcomes. We are a small, remote, global team that values clear thinking, ownership, and calm execution.
