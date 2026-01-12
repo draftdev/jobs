@@ -1,5 +1,5 @@
 # Content Strategist at [Draft.dev](https://draft.dev/)
-> $85,000 - $100,000 USD/year, 40+ hours/week, Remote (Global)
+> $85,000 - $120,000 USD/year, 40+ hours/week, Remote (Global)
 
 Draft.dev is hiring a **Client-Facing Content Strategist** to lead growth strategy for technical content programs. This role owns the thinking behind client engagements: translating business goals into clear content strategies, guiding production and promotion, and leading clients with confidence and clarity. You will work closely with our engineers who create the content and Draft.dev’s leadership while serving as the strategic point of contact for clients.
 
