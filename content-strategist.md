@@ -56,7 +56,7 @@ Draft.dev’s specialty is combining specialized technical knowledge with market
 
 ### Perks:
 - Flexible hours and remote, mostly asynchronous work
-- $85k–$100k annual salary
+- $85k–$120k annual salary
 - Paid time off after 6 months
 - Equipment stipend after 1 year of employment ($1,000/year)
 - Work with a fully remote and global diverse workforce
