@@ -6,7 +6,6 @@ If you're reading this, I can only assume that you're interested in working for 
 
 ## Open Roles
 
-- **[Full-Time Content Strategist (Client Facing)](https://github.com/draftdev/jobs/blob/main/content-strategist.md) ($85k+/year salary)** - If you're an experienced developer marketing or relations professional and you can translate business goals into clear content strategies, guide production and promotion, and lead clients with confidence and clarity, this role is for you.
 - **[Freelance Technical Writer](https://draft.dev/write) ($300+ per blog post)** - If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics, you've come to the right place. Contribute as much or as little as you want -- no monthly minimums.
 
 ## About Draft.dev
